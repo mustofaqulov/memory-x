@@ -1,0 +1,190 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/@memoryx/prisma-client"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String @id @default(cuid())
+  email        String @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+  isDemo       Boolean @default(false)
+  profile      Profile?
+  sessions     Session[]
+  attempts     QuizAttempt[]
+  concepts     ConceptProgress[]
+  rewards      RewardTransaction[]
+  labDiscoveries LabDiscovery[]
+}
+
+model LabDiscovery {
+  id        String @id @default(cuid())
+  userId    String
+  user      User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  recipeId  String
+  createdAt DateTime @default(now())
+  @@unique([userId, recipeId])
+}
+
+model AuthThrottle {
+  email       String @id
+  failures    Int @default(0)
+  windowStart DateTime @default(now())
+  lockedUntil DateTime?
+}
+
+model Session {
+  id        String @id @default(cuid())
+  tokenHash String @unique
+  userId    String
+  user      User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  @@index([userId])
+}
+
+model Profile {
+  userId   String @id
+  user     User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  nickname String
+  track    String
+  grade    Int?
+  xp       Int @default(0)
+  coins    Int @default(0)
+}
+
+model Subject {
+  id          String @id
+  title       String
+  description String
+  icon        String
+  topics      Topic[]
+}
+
+model Topic {
+  id          String @id
+  subjectId   String
+  subject     Subject @relation(fields: [subjectId], references: [id])
+  title       String
+  summary     String
+  grade       Int
+  durationMin Int
+  order       Int
+  lesson      Lesson?
+  cards       Flashcard[]
+  questions   Question[]
+  attempts    QuizAttempt[]
+  @@index([subjectId, order])
+}
+
+model Lesson {
+  id      String @id
+  topicId String @unique
+  topic   Topic @relation(fields: [topicId], references: [id])
+  intro   String
+  body    String
+  example String
+}
+
+model Flashcard {
+  id      String @id
+  topicId String
+  topic   Topic @relation(fields: [topicId], references: [id])
+  front   String
+  back    String
+  order   Int
+  @@index([topicId, order])
+}
+
+model Question {
+  id             String @id
+  topicId        String
+  topic          Topic @relation(fields: [topicId], references: [id])
+  prompt         String
+  conceptId      String
+  correctChoiceId String
+  correctNote    String
+  wrongNote      String
+  order          Int
+  choices        Choice[]
+  answers        AttemptAnswer[]
+  @@index([topicId, order])
+}
+
+model Choice {
+  id         String @id
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  text       String
+  order      Int
+  answers    AttemptAnswer[]
+  @@index([questionId, order])
+}
+
+model AlternativeExplanation {
+  id                String @id
+  conceptId         String @unique
+  title             String
+  explanation       String
+  analogy           String
+  practicePrompt    String
+  practiceAnswer    String
+  practiceFeedback  String
+}
+
+model QuizAttempt {
+  id          String @id @default(cuid())
+  userId      String
+  user        User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topicId     String
+  topic       Topic @relation(fields: [topicId], references: [id])
+  startedAt   DateTime @default(now())
+  completedAt DateTime?
+  score       Int?
+  total       Int?
+  answers     AttemptAnswer[]
+  reward      RewardTransaction?
+  @@index([userId, topicId, completedAt])
+}
+
+model AttemptAnswer {
+  id        String @id @default(cuid())
+  attemptId String
+  attempt   QuizAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  questionId String
+  question  Question @relation(fields: [questionId], references: [id])
+  choiceId   String
+  choice     Choice @relation(fields: [choiceId], references: [id])
+  correct    Boolean
+  conceptId  String
+  @@unique([attemptId, questionId])
+}
+
+model ConceptProgress {
+  id          String @id @default(cuid())
+  userId      String
+  user        User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  conceptId   String
+  correctCount Int @default(0)
+  wrongCount   Int @default(0)
+  lastCorrect  Boolean
+  updatedAt    DateTime @updatedAt
+  @@unique([userId, conceptId])
+}
+
+model RewardTransaction {
+  id        String @id @default(cuid())
+  userId    String
+  user      User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  attemptId String @unique
+  attempt   QuizAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  xp        Int
+  coins     Int
+  createdAt DateTime @default(now())
+  @@index([userId, createdAt])
+}

@@ -1,0 +1,2434 @@
+{
+  "2": [
+    "2",
+    "2"
+  ],
+  "3": [
+    "3",
+    "3"
+  ],
+  "4": [
+    "4",
+    "4"
+  ],
+  "5": [
+    "5",
+    "5"
+  ],
+  "6": [
+    "6",
+    "6"
+  ],
+  "8": [
+    "8",
+    "8"
+  ],
+  "10": [
+    "10",
+    "10"
+  ],
+  "11": [
+    "11",
+    "11"
+  ],
+  "12": [
+    "12",
+    "12"
+  ],
+  "22": [
+    "22",
+    "22"
+  ],
+  "Atom tuzilishi": [
+    "Строение атома",
+    "Atomic structure"
+  ],
+  "Proton, neytron va elektron qanday joylashishini tushuning.": [
+    "Узнайте, как расположены протоны, нейтроны и электроны.",
+    "Understand how protons, neutrons, and electrons are arranged."
+  ],
+  "Moddalar atomlardan tuzilgan. Atom juda kichik bo‘lsa ham, uning ichki tuzilishi bor.": [
+    "Вещества состоят из атомов. Хотя атом очень мал, у него есть внутреннее строение.",
+    "Matter is made of atoms. Although an atom is very small, it has an internal structure."
+  ],
+  "Atom markazida yadro joylashadi. Yadroda musbat zaryadli proton va zaryadsiz neytron bo‘ladi. Manfiy zaryadli elektronlar yadro atrofida harakatlanadi. Neytral atomda protonlar soni elektronlar soniga teng. Elementning tartib raqami uning protonlari sonini bildiradi.": [
+    "В центре атома находится ядро. Оно содержит положительно заряженные протоны и незаряженные нейтроны. Отрицательно заряженные электроны движутся вокруг ядра. В нейтральном атоме число протонов равно числу электронов. Атомный номер элемента показывает число его протонов.",
+    "The nucleus is at the centre of an atom. It contains positively charged protons and uncharged neutrons. Negatively charged electrons move around the nucleus. In a neutral atom, the number of protons equals the number of electrons. An element's atomic number gives its number of protons."
+  ],
+  "Masalan, uglerodning tartib raqami 6. Demak, har bir uglerod atomida 6 ta proton bor. Neytral uglerod atomida 6 ta elektron ham bo‘ladi.": [
+    "Например, атомный номер углерода — 6. Поэтому в каждом атоме углерода 6 протонов. Нейтральный атом углерода также содержит 6 электронов.",
+    "For example, carbon has atomic number 6. Every carbon atom therefore has 6 protons. A neutral carbon atom also has 6 electrons."
+  ],
+  "Atom yadrosida qaysi zarrachalar bor?": [
+    "Какие частицы находятся в ядре атома?",
+    "Which particles are in an atomic nucleus?"
+  ],
+  "Proton va neytron.": [
+    "Протоны и нейтроны.",
+    "Protons and neutrons."
+  ],
+  "Protonning zaryadi qanday?": [
+    "Какой заряд у протона?",
+    "What charge does a proton have?"
+  ],
+  "Musbat zaryadli.": [
+    "Положительный.",
+    "A positive charge."
+  ],
+  "Elektron qayerda joylashadi?": [
+    "Где находится электрон?",
+    "Where is an electron located?"
+  ],
+  "Yadro atrofida.": [
+    "Вокруг ядра.",
+    "Around the nucleus."
+  ],
+  "Neytral atomda nimalar soni teng?": [
+    "Количество каких частиц одинаково в нейтральном атоме?",
+    "Which particles have equal numbers in a neutral atom?"
+  ],
+  "Protonlar va elektronlar soni.": [
+    "Протонов и электронов.",
+    "Protons and electrons."
+  ],
+  "Atomning qismlari": [
+    "Части атома",
+    "Parts of an atom"
+  ],
+  "Atomni kichik markaz va uning atrofidagi elektronlar sifatida tasavvur qiling. Markaz — yadro; unda proton va neytron bor. Elektron yadro tashqarisida.": [
+    "Представьте атом как небольшой центр с электронами вокруг. Центр — ядро, в нём протоны и нейтроны. Электроны находятся вне ядра.",
+    "Imagine an atom as a small centre with electrons around it. The centre is the nucleus, containing protons and neutrons. Electrons are outside the nucleus."
+  ],
+  "Stadion markazi yadro bo‘lsa, tashqaridagi yo‘lak elektronlar joylashadigan hududga o‘xshaydi. Bu faqat joylashuvni eslash uchun o‘xshatish.": [
+    "Если центр стадиона — ядро, внешняя дорожка похожа на область электронов. Это лишь аналогия для запоминания расположения.",
+    "If the centre of a stadium is the nucleus, the outside track resembles the region where electrons are found. This analogy only helps you remember the arrangement."
+  ],
+  "Yadro ichida qaysi ikki zarracha bor?": [
+    "Какие два вида частиц находятся внутри ядра?",
+    "Which two types of particles are inside the nucleus?"
+  ],
+  "proton va neytron": [
+    "протоны и нейтроны",
+    "protons and neutrons"
+  ],
+  "Yadroda proton va neytron bo‘ladi; elektron yadro tashqarisida.": [
+    "В ядре находятся протоны и нейтроны, а электроны — вне ядра.",
+    "The nucleus contains protons and neutrons; electrons are outside it."
+  ],
+  "Zaryad va neytrallik": [
+    "Заряд и нейтральность",
+    "Charge and neutrality"
+  ],
+  "Proton musbat, elektron manfiy, neytron zaryadsiz. Neytral atomda musbat va manfiy zaryadlar soni teng.": [
+    "Протон положительный, электрон отрицательный, нейтрон не имеет заряда. В нейтральном атоме количества положительных и отрицательных зарядов равны.",
+    "A proton is positive, an electron is negative, and a neutron has no charge. In a neutral atom, positive and negative charges balance."
+  ],
+  "Tarozining ikki pallasi teng bo‘lsa, umumiy natija nol bo‘ladi. Proton va elektron soni teng bo‘lsa, atom ham neytral.": [
+    "Когда чаши весов уравновешены, разница равна нулю. Когда числа протонов и электронов равны, атом нейтрален.",
+    "When both sides of a scale balance, the difference is zero. When proton and electron counts match, the atom is neutral."
+  ],
+  "5 protonli neytral atomda nechta elektron bor?": [
+    "Сколько электронов в нейтральном атоме с 5 протонами?",
+    "How many electrons does a neutral atom with 5 protons have?"
+  ],
+  "Neytral atomda proton va elektron soni teng.": [
+    "В нейтральном атоме числа протонов и электронов равны.",
+    "In a neutral atom, the numbers of protons and electrons are equal."
+  ],
+  "Tartib raqami": [
+    "Атомный номер",
+    "Atomic number"
+  ],
+  "Elementning tartib raqami protonlar sonidir. Neytral atomda elektronlar sonini ham shu son orqali topish mumkin.": [
+    "Атомный номер элемента — это число протонов. Для нейтрального атома он также показывает число электронов.",
+    "An element's atomic number is its number of protons. In a neutral atom, it also gives the number of electrons."
+  ],
+  "Tartib raqami atomning pasport raqamiga o‘xshaydi: u protonlar sonini aniq bildiradi.": [
+    "Атомный номер похож на номер паспорта атома: он точно указывает число протонов.",
+    "The atomic number is like an atom's passport number: it identifies the number of protons."
+  ],
+  "Tartib raqami 8 bo‘lgan atomda nechta proton bor?": [
+    "Сколько протонов у атома с атомным номером 8?",
+    "How many protons does an atom with atomic number 8 have?"
+  ],
+  "Tartib raqami protonlar soniga teng.": [
+    "Атомный номер равен числу протонов.",
+    "The atomic number equals the number of protons."
+  ],
+  "Atom yadrosida qaysi zarrachalar joylashgan?": [
+    "Какие частицы расположены в ядре атома?",
+    "Which particles are found in the atomic nucleus?"
+  ],
+  "Proton va neytron": [
+    "Протоны и нейтроны",
+    "Protons and neutrons"
+  ],
+  "Proton va elektron": [
+    "Протоны и электроны",
+    "Protons and electrons"
+  ],
+  "Faqat elektron": [
+    "Только электроны",
+    "Only electrons"
+  ],
+  "Elektron va neytron": [
+    "Электроны и нейтроны",
+    "Electrons and neutrons"
+  ],
+  "Yadro proton va neytrondan iborat.": [
+    "Ядро состоит из протонов и нейтронов.",
+    "The nucleus consists of protons and neutrons."
+  ],
+  "Elektronlar yadro ichida emas, uning atrofida joylashadi.": [
+    "Электроны находятся вокруг ядра, а не внутри него.",
+    "Electrons are around the nucleus, not inside it."
+  ],
+  "Qaysi zarracha manfiy zaryadli?": [
+    "Какая частица имеет отрицательный заряд?",
+    "Which particle has a negative charge?"
+  ],
+  "Proton": [
+    "Протон",
+    "Proton"
+  ],
+  "Neytron": [
+    "Нейтрон",
+    "Neutron"
+  ],
+  "Elektron": [
+    "Электрон",
+    "Electron"
+  ],
+  "Yadro": [
+    "Ядро",
+    "Nucleus"
+  ],
+  "Elektron manfiy zaryadli.": [
+    "Электрон имеет отрицательный заряд.",
+    "An electron has a negative charge."
+  ],
+  "Proton musbat, neytron esa zaryadsiz.": [
+    "Протон положительный, а нейтрон не имеет заряда.",
+    "A proton is positive, while a neutron is uncharged."
+  ],
+  "Neytral atomda protonlar soni qaysi zarrachalar soniga teng?": [
+    "Число протонов в нейтральном атоме равно числу каких частиц?",
+    "In a neutral atom, the number of protons equals the number of which particles?"
+  ],
+  "Neytronlar": [
+    "Нейтроны",
+    "Neutrons"
+  ],
+  "Elektronlar": [
+    "Электроны",
+    "Electrons"
+  ],
+  "Yadrolar": [
+    "Ядра",
+    "Nuclei"
+  ],
+  "Molekulalar": [
+    "Молекулы",
+    "Molecules"
+  ],
+  "Musbat proton va manfiy elektron soni teng bo‘lganda atom neytral bo‘ladi.": [
+    "Атом нейтрален, когда числа положительных протонов и отрицательных электронов равны.",
+    "An atom is neutral when it has equal numbers of positive protons and negative electrons."
+  ],
+  "Neytronlar soni o‘zgarishi mumkin; neytrallikni elektronlar bilan protonlar belgilaydi.": [
+    "Число нейтронов может меняться; нейтральность определяется протонами и электронами.",
+    "The number of neutrons can vary; neutrality is determined by protons and electrons."
+  ],
+  "Tartib raqami 11 bo‘lgan element atomida nechta proton bor?": [
+    "Сколько протонов в атоме элемента с атомным номером 11?",
+    "How many protons does an atom of an element with atomic number 11 have?"
+  ],
+  "Tartib raqami protonlar sonini bildiradi.": [
+    "Атомный номер показывает число протонов.",
+    "The atomic number tells you the number of protons."
+  ],
+  "Tartib raqamini neytronlar yoki barcha zarrachalar yig‘indisi bilan aralashtirmang.": [
+    "Не путайте атомный номер с числом нейтронов или суммой всех частиц.",
+    "Do not confuse the atomic number with the number of neutrons or the total number of particles."
+  ],
+  "Elektron atomning qaysi qismida joylashadi?": [
+    "В какой части атома находится электрон?",
+    "In which part of an atom is an electron found?"
+  ],
+  "Yadro ichida": [
+    "Внутри ядра",
+    "Inside the nucleus"
+  ],
+  "Proton ichida": [
+    "Внутри протона",
+    "Inside a proton"
+  ],
+  "Yadro atrofida": [
+    "Вокруг ядра",
+    "Around the nucleus"
+  ],
+  "Neytron ichida": [
+    "Внутри нейтрона",
+    "Inside a neutron"
+  ],
+  "Elektronlar yadro atrofida joylashadi.": [
+    "Электроны располагаются вокруг ядра.",
+    "Electrons are found around the nucleus."
+  ],
+  "Yadro ichida proton va neytron bor, elektron emas.": [
+    "Внутри ядра находятся протоны и нейтроны, а не электроны.",
+    "The nucleus contains protons and neutrons, not electrons."
+  ],
+  "Kimyoviy reaksiyalar": [
+    "Химические реакции",
+    "Chemical reactions"
+  ],
+  "Reagent, mahsulot va massa saqlanishini amalda ajrating.": [
+    "Научитесь различать реагенты, продукты и применять закон сохранения массы.",
+    "Learn to identify reactants and products and apply conservation of mass."
+  ],
+  "Kimyoviy reaksiyada boshlang‘ich moddalar yangi moddalarga aylanadi.": [
+    "В химической реакции исходные вещества превращаются в новые вещества.",
+    "In a chemical reaction, starting substances turn into new substances."
+  ],
+  "Reaksiyaga kirishgan moddalar reagentlar, hosil bo‘lgan moddalar mahsulotlar deyiladi. Tenglamada reagentlar chapda, mahsulotlar o‘ngda yoziladi. Atomlar yo‘qolmaydi va paydo bo‘lmaydi; ular qayta guruhlanadi. Shuning uchun yopiq tizimda umumiy massa saqlanadi.": [
+    "Вступающие в реакцию вещества называются реагентами, а образовавшиеся — продуктами. В уравнении реагенты пишут слева, продукты — справа. Атомы не исчезают и не возникают, а перегруппировываются. Поэтому в закрытой системе общая масса сохраняется.",
+    "Substances entering a reaction are reactants; those formed are products. Reactants go on the left of an equation and products on the right. Atoms are neither lost nor created; they rearrange. Total mass is therefore conserved in a closed system."
+  ],
+  "2H₂ + O₂ → 2H₂O: vodorod va kislorod reagentlar, suv mahsulot. Chapda ham, o‘ngda ham 4 ta vodorod va 2 ta kislorod atomi bor.": [
+    "2H₂ + O₂ → 2H₂O: водород и кислород — реагенты, вода — продукт. С обеих сторон по 4 атома водорода и 2 атома кислорода.",
+    "2H₂ + O₂ → 2H₂O: hydrogen and oxygen are reactants; water is the product. Each side has 4 hydrogen atoms and 2 oxygen atoms."
+  ],
+  "Reagent nima?": [
+    "Что такое реагент?",
+    "What is a reactant?"
+  ],
+  "Reaksiyaga kirishadigan boshlang‘ich modda.": [
+    "Исходное вещество, вступающее в реакцию.",
+    "A starting substance that takes part in a reaction."
+  ],
+  "Mahsulot nima?": [
+    "Что такое продукт реакции?",
+    "What is a product?"
+  ],
+  "Reaksiya natijasida hosil bo‘lgan modda.": [
+    "Вещество, образовавшееся в результате реакции.",
+    "A substance formed by a reaction."
+  ],
+  "Tenglamaning chap tomonida nima yoziladi?": [
+    "Что записывают слева в уравнении?",
+    "What is written on the left side of an equation?"
+  ],
+  "Reagentlar.": [
+    "Реагенты.",
+    "Reactants."
+  ],
+  "Yopiq tizimda umumiy massa qanday o‘zgaradi?": [
+    "Как изменяется общая масса в закрытой системе?",
+    "How does total mass change in a closed system?"
+  ],
+  "Saqlanadi.": [
+    "Сохраняется.",
+    "It is conserved."
+  ],
+  "Reaksiya tenglamasining tomonlari": [
+    "Стороны уравнения реакции",
+    "Sides of a reaction equation"
+  ],
+  "O‘qni “aylanadi” deb o‘qing. O‘qdan oldingi moddalar reagent, o‘qdan keyingilar mahsulot.": [
+    "Читайте стрелку как «превращается в». До стрелки — реагенты, после неё — продукты.",
+    "Read the arrow as “turns into”. Substances before the arrow are reactants; those after it are products."
+  ],
+  "Retseptdagi masalliqlar reagentlarga, tayyor taom mahsulotga o‘xshaydi. Kimyoda esa atomlar qayta joylashadi.": [
+    "Ингредиенты рецепта похожи на реагенты, а готовое блюдо — на продукт. В химии при этом перестраиваются атомы.",
+    "Recipe ingredients are like reactants, and the finished dish is like the product. In chemistry, atoms rearrange."
+  ],
+  "A + B → C tenglamasida C nima?": [
+    "Что такое C в уравнении A + B → C?",
+    "In A + B → C, what is C?"
+  ],
+  "mahsulot": [
+    "продукт",
+    "product"
+  ],
+  "C o‘ng tomonda, demak mahsulot.": [
+    "C находится справа, значит это продукт.",
+    "C is on the right, so it is a product."
+  ],
+  "Massa saqlanishi": [
+    "Сохранение массы",
+    "Conservation of mass"
+  ],
+  "Yopiq tizimda reaksiyadan oldingi va keyingi umumiy massa teng. Atomlar qayta joylashadi, ammo yo‘qolmaydi.": [
+    "В закрытой системе общая масса до и после реакции одинакова. Атомы перестраиваются, но не исчезают.",
+    "In a closed system, total mass is the same before and after a reaction. Atoms rearrange but do not disappear."
+  ],
+  "Konstruktor bo‘laklaridan yangi shakl yasasangiz ham, bo‘laklar soni o‘zgarmaydi.": [
+    "Если собрать новую фигуру из деталей конструктора, число деталей не изменится.",
+    "Building a new shape from the same blocks does not change the number of blocks."
+  ],
+  "Yopiq idishda 3 g va 5 g modda reaksiyaga kirishsa, mahsulotlar jami necha gramm?": [
+    "В закрытом сосуде реагируют 3 г и 5 г веществ. Сколько граммов продуктов получится всего?",
+    "In a closed container, 3 g and 5 g of substances react. What is the total mass of the products in grams?"
+  ],
+  "Yopiq tizimda 3 + 5 = 8 g.": [
+    "В закрытой системе 3 + 5 = 8 г.",
+    "In a closed system, 3 + 5 = 8 g."
+  ],
+  "Tenglama koeffitsiyenti": [
+    "Коэффициент уравнения",
+    "Equation coefficient"
+  ],
+  "Formula oldidagi son butun molekulalar sonini bildiradi. 2H₂ — ikki dona H₂ molekulasi, jami to‘rt H atomi.": [
+    "Число перед формулой обозначает число целых молекул. 2H₂ — две молекулы H₂, всего четыре атома H.",
+    "The number before a formula counts whole molecules. 2H₂ means two H₂ molecules, with four H atoms in total."
+  ],
+  "Ikki quti, har birida ikki olma bo‘lsa, jami to‘rt olma bo‘ladi.": [
+    "В двух коробках по два яблока — всего четыре яблока.",
+    "Two boxes with two apples each contain four apples altogether."
+  ],
+  "2H₂ da jami nechta vodorod atomi bor?": [
+    "Сколько всего атомов водорода в 2H₂?",
+    "How many hydrogen atoms are there in 2H₂?"
+  ],
+  "Har bir H₂ da ikki atom; 2 × 2 = 4.": [
+    "В каждой H₂ два атома; 2 × 2 = 4.",
+    "Each H₂ has two atoms; 2 × 2 = 4."
+  ],
+  "A + B → C tenglamasida A va B nima deyiladi?": [
+    "Как называются A и B в уравнении A + B → C?",
+    "What are A and B called in A + B → C?"
+  ],
+  "Mahsulotlar": [
+    "Продукты",
+    "Products"
+  ],
+  "Reagentlar": [
+    "Реагенты",
+    "Reactants"
+  ],
+  "Katalizatorlar": [
+    "Катализаторы",
+    "Catalysts"
+  ],
+  "Atomlar": [
+    "Атомы",
+    "Atoms"
+  ],
+  "O‘qdan oldingi A va B reagentlardir.": [
+    "A и B перед стрелкой — реагенты.",
+    "A and B before the arrow are reactants."
+  ],
+  "Mahsulot o‘qdan keyin yoziladi.": [
+    "Продукт записывается после стрелки.",
+    "The product is written after the arrow."
+  ],
+  "2H₂ + O₂ → 2H₂O tenglamasida mahsulot qaysi?": [
+    "Какой продукт в уравнении 2H₂ + O₂ → 2H₂O?",
+    "Which is the product in 2H₂ + O₂ → 2H₂O?"
+  ],
+  "H₂": [
+    "H₂",
+    "H₂"
+  ],
+  "O₂": [
+    "O₂",
+    "O₂"
+  ],
+  "H₂O": [
+    "H₂O",
+    "H₂O"
+  ],
+  "H₂ va O₂": [
+    "H₂ и O₂",
+    "H₂ and O₂"
+  ],
+  "Suv o‘qdan keyin turibdi, shuning uchun mahsulot.": [
+    "Вода стоит после стрелки, поэтому она продукт.",
+    "Water appears after the arrow, so it is the product."
+  ],
+  "Vodorod va kislorod o‘qdan oldin: ular reagent.": [
+    "Водород и кислород стоят до стрелки: это реагенты.",
+    "Hydrogen and oxygen appear before the arrow: they are reactants."
+  ],
+  "Yopiq idishda 7 g va 3 g modda to‘liq reaksiyaga kirishsa, mahsulotlar jami massasi qancha?": [
+    "В закрытом сосуде полностью реагируют 7 г и 3 г веществ. Какова общая масса продуктов?",
+    "In a closed container, 7 g and 3 g of substances react fully. What is the total mass of products?"
+  ],
+  "3 g": [
+    "3 г",
+    "3 g"
+  ],
+  "7 g": [
+    "7 г",
+    "7 g"
+  ],
+  "10 g": [
+    "10 г",
+    "10 g"
+  ],
+  "11 g": [
+    "11 г",
+    "11 g"
+  ],
+  "Yopiq tizimda massa saqlanadi: 7 + 3 = 10 g.": [
+    "В закрытой системе масса сохраняется: 7 + 3 = 10 г.",
+    "Mass is conserved in a closed system: 7 + 3 = 10 g."
+  ],
+  "Reaksiyada atomlar yo‘qolmaydi; boshlang‘ich massalarni qo‘shing.": [
+    "В реакции атомы не исчезают; сложите исходные массы.",
+    "Atoms do not disappear in a reaction; add the starting masses."
+  ],
+  "3O₂ yozuvida jami nechta kislorod atomi bor?": [
+    "Сколько всего атомов кислорода в 3O₂?",
+    "How many oxygen atoms are there in 3O₂?"
+  ],
+  "Uchta O₂ molekulasi: 3 × 2 = 6 atom.": [
+    "Три молекулы O₂: 3 × 2 = 6 атомов.",
+    "Three O₂ molecules: 3 × 2 = 6 atoms."
+  ],
+  "Formula oldidagi 3 molekulalar soni, pastdagi 2 esa har molekuladagi atomlar soni.": [
+    "Число 3 перед формулой — число молекул, а индекс 2 — число атомов в каждой молекуле.",
+    "The 3 before the formula counts molecules; the subscript 2 counts atoms in each molecule."
+  ],
+  "Yopiq tizimdagi kimyoviy reaksiyada atomlar bilan nima sodir bo‘ladi?": [
+    "Что происходит с атомами при химической реакции в закрытой системе?",
+    "What happens to atoms in a chemical reaction in a closed system?"
+  ],
+  "Yo‘qoladi": [
+    "Исчезают",
+    "They disappear"
+  ],
+  "Yangidan paydo bo‘ladi": [
+    "Возникают заново",
+    "They are newly created"
+  ],
+  "Qayta guruhlanadi": [
+    "Перегруппировываются",
+    "They rearrange"
+  ],
+  "Massasiz bo‘lib qoladi": [
+    "Теряют массу",
+    "They become massless"
+  ],
+  "Atomlar qayta guruhlanib, yangi moddalarni hosil qiladi.": [
+    "Атомы перегруппировываются, образуя новые вещества.",
+    "Atoms rearrange to form new substances."
+  ],
+  "Reaksiya atomlarni yo‘q qilmaydi va yo‘qdan yaratmaydi.": [
+    "Реакция не уничтожает атомы и не создаёт их из ничего.",
+    "A reaction neither destroys atoms nor creates them from nothing."
+  ],
+  "Hujayra tuzilishi": [
+    "Строение клетки",
+    "Cell structure"
+  ],
+  "Membrana, sitoplazma va yadroning vazifalarini biling.": [
+    "Узнайте функции мембраны, цитоплазмы и ядра.",
+    "Learn the functions of the membrane, cytoplasm, and nucleus."
+  ],
+  "Hujayra tirik organizmlarning asosiy tuzilish va faoliyat birligidir.": [
+    "Клетка — основная структурная и функциональная единица живых организмов.",
+    "The cell is the basic structural and functional unit of living organisms."
+  ],
+  "Hujayra membranasi hujayrani o‘rab, moddalarning kirishi va chiqishini tartibga soladi. Sitoplazma hujayraning ichki suyuq muhitidir. Yadro ko‘plab hujayralarda irsiy axborotni saqlaydi. O‘simlik hujayrasida qo‘shimcha hujayra devori va fotosintez qiladigan xloroplastlar bo‘ladi.": [
+    "Мембрана окружает клетку и регулирует поступление и выход веществ. Цитоплазма — внутренняя жидкая среда клетки. Во многих клетках ядро хранит наследственную информацию. У растительных клеток также есть клеточная стенка и хлоропласты, осуществляющие фотосинтез.",
+    "The cell membrane surrounds the cell and regulates substances entering and leaving it. The cytoplasm is the cell's internal fluid environment. In many cells, the nucleus stores hereditary information. Plant cells also have a cell wall and chloroplasts that carry out photosynthesis."
+  ],
+  "Barg hujayrasidagi xloroplastlar yorug‘lik energiyasidan foydalanadi. Hayvon hujayrasida esa xloroplast bo‘lmaydi.": [
+    "Хлоропласты в клетках листа используют световую энергию. В животных клетках хлоропластов нет.",
+    "Chloroplasts in leaf cells use light energy. Animal cells do not have chloroplasts."
+  ],
+  "Membrananing vazifasi nima?": [
+    "Какова функция мембраны?",
+    "What is the function of the membrane?"
+  ],
+  "Moddalar kirishi va chiqishini tartibga solish.": [
+    "Регулировать поступление и выход веществ.",
+    "To regulate substances entering and leaving the cell."
+  ],
+  "Sitoplazma nima?": [
+    "Что такое цитоплазма?",
+    "What is cytoplasm?"
+  ],
+  "Hujayraning ichki suyuq muhiti.": [
+    "Внутренняя жидкая среда клетки.",
+    "The cell's internal fluid environment."
+  ],
+  "Yadro nimani saqlaydi?": [
+    "Что хранит ядро?",
+    "What does the nucleus store?"
+  ],
+  "Irsiy axborotni.": [
+    "Наследственную информацию.",
+    "Hereditary information."
+  ],
+  "Xloroplast qaysi hujayrada bo‘ladi?": [
+    "В каких клетках есть хлоропласты?",
+    "Which cells have chloroplasts?"
+  ],
+  "Fotosintez qiladigan o‘simlik hujayralarida.": [
+    "В фотосинтезирующих растительных клетках.",
+    "In photosynthetic plant cells."
+  ],
+  "Membrana vazifasi": [
+    "Функция мембраны",
+    "Membrane function"
+  ],
+  "Membrana hujayra chegarasi bo‘lib, hamma moddani bir xil o‘tkazmaydi. U kirish va chiqishni tartibga soladi.": [
+    "Мембрана — граница клетки, которая пропускает вещества избирательно. Она регулирует вход и выход веществ.",
+    "The membrane forms the cell's boundary and lets substances through selectively. It controls what enters and leaves."
+  ],
+  "Eshik kim kirib chiqishini boshqaradi; membrana ham moddalar oqimini boshqaradi.": [
+    "Дверь регулирует, кто входит и выходит; мембрана также регулирует поток веществ.",
+    "A door controls who enters and leaves; a membrane similarly controls the flow of substances."
+  ],
+  "Moddalar kirishi va chiqishini nima tartibga soladi?": [
+    "Что регулирует поступление и выход веществ?",
+    "What regulates substances entering and leaving?"
+  ],
+  "membrana": [
+    "мембрана",
+    "membrane"
+  ],
+  "Bu vazifa membranaga tegishli.": [
+    "Эту функцию выполняет мембрана.",
+    "This is the membrane's function."
+  ],
+  "Yadro va sitoplazma": [
+    "Ядро и цитоплазма",
+    "Nucleus and cytoplasm"
+  ],
+  "Sitoplazma hujayraning ichki muhiti. Yadro esa ko‘plab hujayralarda irsiy axborotni saqlaydi.": [
+    "Цитоплазма — внутренняя среда клетки. Во многих клетках ядро хранит наследственную информацию.",
+    "The cytoplasm is the cell's internal environment. In many cells, the nucleus stores hereditary information."
+  ],
+  "Xonadagi umumiy joy sitoplazmaga, muhim ko‘rsatmalar saqlanadigan joy esa yadroga o‘xshaydi.": [
+    "Пространство комнаты похоже на цитоплазму, а место хранения важных инструкций — на ядро.",
+    "The space in a room is like the cytoplasm, while a place storing important instructions is like the nucleus."
+  ],
+  "Irsiy axborot qayerda saqlanadi?": [
+    "Где хранится наследственная информация?",
+    "Where is hereditary information stored?"
+  ],
+  "yadro": [
+    "ядро",
+    "nucleus"
+  ],
+  "Ko‘plab hujayralarda irsiy axborot yadroda saqlanadi.": [
+    "Во многих клетках наследственная информация хранится в ядре.",
+    "In many cells, hereditary information is stored in the nucleus."
+  ],
+  "O‘simlik hujayrasining o‘ziga xosligi": [
+    "Особенности растительной клетки",
+    "Features of a plant cell"
+  ],
+  "Fotosintez qiladigan o‘simlik hujayralarida xloroplast bor. Hujayra devori membranadan tashqarida qo‘shimcha tayanch beradi.": [
+    "Фотосинтезирующие растительные клетки содержат хлоропласты. Клеточная стенка снаружи мембраны обеспечивает дополнительную опору.",
+    "Photosynthetic plant cells contain chloroplasts. The cell wall outside the membrane provides extra support."
+  ],
+  "Membrana ichki chegara, devor esa uning tashqarisidagi mustahkam qobiq kabi.": [
+    "Мембрана похожа на внутреннюю границу, а стенка — на прочную оболочку снаружи.",
+    "The membrane is like an inner boundary, and the wall is like a strong outer shell."
+  ],
+  "Fotosintez qaysi organoidda boradi?": [
+    "В какой органелле происходит фотосинтез?",
+    "In which organelle does photosynthesis occur?"
+  ],
+  "xloroplast": [
+    "хлоропласт",
+    "chloroplast"
+  ],
+  "Fotosintez xloroplastda boradi.": [
+    "Фотосинтез происходит в хлоропластах.",
+    "Photosynthesis takes place in chloroplasts."
+  ],
+  "Hujayraga moddalar kirishi va chiqishini nima tartibga soladi?": [
+    "Что регулирует поступление веществ в клетку и их выход?",
+    "What regulates substances entering and leaving a cell?"
+  ],
+  "Membrana": [
+    "Мембрана",
+    "Membrane"
+  ],
+  "Xloroplast": [
+    "Хлоропласт",
+    "Chloroplast"
+  ],
+  "Hujayra devori": [
+    "Клеточная стенка",
+    "Cell wall"
+  ],
+  "Membrana moddalar almashinuvini tartibga soladi.": [
+    "Мембрана регулирует обмен веществ с окружающей средой.",
+    "The membrane regulates the exchange of substances."
+  ],
+  "Yadro irsiy axborot bilan bog‘liq; devor esa asosan tayanch beradi.": [
+    "Ядро связано с наследственной информацией, а стенка главным образом обеспечивает опору.",
+    "The nucleus is associated with hereditary information; the wall mainly provides support."
+  ],
+  "Ko‘plab hujayralarda irsiy axborot qayerda saqlanadi?": [
+    "Где во многих клетках хранится наследственная информация?",
+    "Where is hereditary information stored in many cells?"
+  ],
+  "Sitoplazmada": [
+    "В цитоплазме",
+    "In the cytoplasm"
+  ],
+  "Membranada": [
+    "В мембране",
+    "In the membrane"
+  ],
+  "Yadroda": [
+    "В ядре",
+    "In the nucleus"
+  ],
+  "Hujayra devorida": [
+    "В клеточной стенке",
+    "In the cell wall"
+  ],
+  "Yadro irsiy axborotni saqlaydi.": [
+    "Ядро хранит наследственную информацию.",
+    "The nucleus stores hereditary information."
+  ],
+  "Sitoplazma ichki muhit, membrana chegara vazifasini bajaradi.": [
+    "Цитоплазма — внутренняя среда, а мембрана выполняет роль границы.",
+    "The cytoplasm is the internal environment, while the membrane acts as a boundary."
+  ],
+  "Hujayraning ichki suyuq muhiti nima deyiladi?": [
+    "Как называется внутренняя жидкая среда клетки?",
+    "What is the cell's internal fluid environment called?"
+  ],
+  "Sitoplazma": [
+    "Цитоплазма",
+    "Cytoplasm"
+  ],
+  "Devori": [
+    "Стенка",
+    "Wall"
+  ],
+  "Sitoplazma hujayra ichidagi suyuq muhitdir.": [
+    "Цитоплазма — жидкая среда внутри клетки.",
+    "The cytoplasm is the fluid environment inside the cell."
+  ],
+  "Yadro sitoplazma ichidagi alohida tuzilma.": [
+    "Ядро — отдельная структура внутри цитоплазмы.",
+    "The nucleus is a distinct structure within the cytoplasm."
+  ],
+  "Xloroplastda": [
+    "В хлоропласте",
+    "In the chloroplast"
+  ],
+  "Xloroplast yorug‘lik energiyasidan foydalanadi.": [
+    "Хлоропласт использует световую энергию.",
+    "The chloroplast uses light energy."
+  ],
+  "Yadro axborot saqlaydi; fotosintezning asosiy joyi xloroplast.": [
+    "Ядро хранит информацию; главное место фотосинтеза — хлоропласт.",
+    "The nucleus stores information; the main site of photosynthesis is the chloroplast."
+  ],
+  "O‘simlik hujayra devori membranaga nisbatan qayerda joylashadi?": [
+    "Где клеточная стенка растения расположена относительно мембраны?",
+    "Where is a plant cell wall located relative to the membrane?"
+  ],
+  "Membrana tashqarisida": [
+    "Снаружи мембраны",
+    "Outside the membrane"
+  ],
+  "Xloroplast ichida": [
+    "Внутри хлоропласта",
+    "Inside the chloroplast"
+  ],
+  "Membrana o‘rnida": [
+    "Вместо мембраны",
+    "In place of the membrane"
+  ],
+  "Hujayra devori membrananing tashqarisida joylashadi.": [
+    "Клеточная стенка находится снаружи мембраны.",
+    "The cell wall is outside the membrane."
+  ],
+  "Devor membranani almashtirmaydi; ular turli tuzilmalardir.": [
+    "Стенка не заменяет мембрану; это разные структуры.",
+    "The wall does not replace the membrane; they are different structures."
+  ],
+  "Fotosintez": [
+    "Фотосинтез",
+    "Photosynthesis"
+  ],
+  "O‘simliklar yorug‘likdan qanday foydalanishini o‘rganing.": [
+    "Узнайте, как растения используют свет.",
+    "Learn how plants use light."
+  ],
+  "Fotosintezda o‘simlik yorug‘lik energiyasi yordamida organik modda hosil qiladi.": [
+    "При фотосинтезе растение использует световую энергию для образования органических веществ.",
+    "During photosynthesis, a plant uses light energy to produce organic matter."
+  ],
+  "Fotosintez asosan bargdagi xloroplastlarda boradi. O‘simlik karbonat angidridni havodan, suvni ildiz orqali oladi. Yorug‘lik energiyasi yordamida glyukoza hosil bo‘ladi va kislorod ajraladi. Jarayon uchun yorug‘lik kerak; nafas olish esa boshqa jarayon bo‘lib, kunu tun davom etadi.": [
+    "Фотосинтез происходит главным образом в хлоропластах листьев. Растение получает углекислый газ из воздуха, а воду — через корни. С помощью световой энергии образуется глюкоза и выделяется кислород. Для этого процесса нужен свет; дыхание — другой процесс, который идёт днём и ночью.",
+    "Photosynthesis mainly occurs in leaf chloroplasts. Plants take carbon dioxide from the air and water through their roots. Light energy is used to produce glucose and release oxygen. This process needs light; respiration is a different process that continues day and night."
+  ],
+  "Oddiy ko‘rinish: karbonat angidrid + suv + yorug‘lik → glyukoza + kislorod. Bu yozuv jarayonni tushunishga yordam beradi, to‘liq tenglama emas.": [
+    "Упрощённо: углекислый газ + вода + свет → глюкоза + кислород. Это схема для понимания процесса, а не полное уравнение.",
+    "Simply: carbon dioxide + water + light → glucose + oxygen. This is a summary to help understand the process, not a complete equation."
+  ],
+  "Fotosintez asosan qayerda boradi?": [
+    "Где главным образом происходит фотосинтез?",
+    "Where does photosynthesis mainly take place?"
+  ],
+  "Xloroplastlarda.": [
+    "В хлоропластах.",
+    "In chloroplasts."
+  ],
+  "O‘simlik karbonat angidridni qayerdan oladi?": [
+    "Откуда растение получает углекислый газ?",
+    "Where does a plant get carbon dioxide?"
+  ],
+  "Havodan.": [
+    "Из воздуха.",
+    "From the air."
+  ],
+  "Fotosintezda ajraladigan gaz qaysi?": [
+    "Какой газ выделяется при фотосинтезе?",
+    "Which gas is released during photosynthesis?"
+  ],
+  "Kislorod.": [
+    "Кислород.",
+    "Oxygen."
+  ],
+  "Fotosintez uchun qaysi energiya kerak?": [
+    "Какая энергия нужна для фотосинтеза?",
+    "What kind of energy is needed for photosynthesis?"
+  ],
+  "Yorug‘lik energiyasi.": [
+    "Световая энергия.",
+    "Light energy."
+  ],
+  "Fotosintezga kerak bo‘ladiganlar": [
+    "Что нужно для фотосинтеза",
+    "Requirements for photosynthesis"
+  ],
+  "Fotosintezga karbonat angidrid, suv va yorug‘lik energiyasi kerak. O‘simlik CO₂ ni havodan, suvni tuproqdan oladi.": [
+    "Для фотосинтеза нужны углекислый газ, вода и световая энергия. Растение получает CO₂ из воздуха, а воду — из почвы.",
+    "Photosynthesis needs carbon dioxide, water, and light energy. A plant gets CO₂ from the air and water from the soil."
+  ],
+  "Oshpaz retsept uchun masalliqlar va energiyaga muhtoj; o‘simlik uchun “masalliqlar” CO₂ va suv, energiya esa yorug‘lik.": [
+    "Повару нужны ингредиенты и энергия; для растения «ингредиенты» — CO₂ и вода, а энергия — свет.",
+    "A cook needs ingredients and energy; for a plant, the “ingredients” are CO₂ and water, and the energy is light."
+  ],
+  "Fotosintezda havodan olinadigan gaz qaysi?": [
+    "Какой газ берётся из воздуха для фотосинтеза?",
+    "Which gas is taken from the air for photosynthesis?"
+  ],
+  "karbonat angidrid": [
+    "углекислый газ",
+    "carbon dioxide"
+  ],
+  "O‘simlik havodan karbonat angidrid oladi.": [
+    "Растение получает углекислый газ из воздуха.",
+    "A plant takes carbon dioxide from the air."
+  ],
+  "Fotosintez mahsulotlari": [
+    "Продукты фотосинтеза",
+    "Products of photosynthesis"
+  ],
+  "Fotosintez natijasida glyukoza hosil bo‘ladi va kislorod ajraladi. Kislorod kirish moddasi emas.": [
+    "При фотосинтезе образуется глюкоза и выделяется кислород. Кислород не является исходным веществом.",
+    "Photosynthesis produces glucose and releases oxygen. Oxygen is not an input substance."
+  ],
+  "Tayyor natijani eslang: o‘simlik uchun oziq bo‘ladigan glyukoza va havoga chiqadigan kislorod.": [
+    "Запомните результат: глюкоза, служащая питанием растению, и кислород, поступающий в воздух.",
+    "Remember the outputs: glucose that feeds the plant and oxygen released into the air."
+  ],
+  "kislorod": [
+    "кислород",
+    "oxygen"
+  ],
+  "Fotosintezda kislorod ajraladi.": [
+    "При фотосинтезе выделяется кислород.",
+    "Photosynthesis releases oxygen."
+  ],
+  "Fotosintez joyi": [
+    "Место фотосинтеза",
+    "Site of photosynthesis"
+  ],
+  "Fotosintez asosan xloroplastlarda boradi. Xlorofill yorug‘likni yutishga yordam beradi.": [
+    "Фотосинтез происходит главным образом в хлоропластах. Хлорофилл помогает поглощать свет.",
+    "Photosynthesis mainly occurs in chloroplasts. Chlorophyll helps absorb light."
+  ],
+  "Xloroplastni yorug‘lik bilan ishlaydigan kichik ustaxona deb tasavvur qiling.": [
+    "Представьте хлоропласт как маленькую мастерскую, работающую на световой энергии.",
+    "Imagine a chloroplast as a small workshop powered by light."
+  ],
+  "Fotosintezning asosiy joyi xloroplast.": [
+    "Главное место фотосинтеза — хлоропласт.",
+    "The main site of photosynthesis is the chloroplast."
+  ],
+  "Fotosintez asosan qaysi organoidda boradi?": [
+    "В какой органелле главным образом происходит фотосинтез?",
+    "In which organelle does photosynthesis mainly occur?"
+  ],
+  "Mitoxondriyada": [
+    "В митохондрии",
+    "In the mitochondrion"
+  ],
+  "Xloroplast fotosintezning asosiy joyi.": [
+    "Хлоропласт — главное место фотосинтеза.",
+    "The chloroplast is the main site of photosynthesis."
+  ],
+  "Mitoxondriya hujayra nafas olishi bilan bog‘liq; fotosintez xloroplastda boradi.": [
+    "Митохондрии связаны с клеточным дыханием; фотосинтез происходит в хлоропластах.",
+    "Mitochondria are associated with cellular respiration; photosynthesis occurs in chloroplasts."
+  ],
+  "O‘simlik fotosintez uchun karbonat angidridni qayerdan oladi?": [
+    "Откуда растение получает углекислый газ для фотосинтеза?",
+    "Where does a plant get carbon dioxide for photosynthesis?"
+  ],
+  "Tuproqdan": [
+    "Из почвы",
+    "From the soil"
+  ],
+  "Havodan": [
+    "Из воздуха",
+    "From the air"
+  ],
+  "Quyoshdan": [
+    "От Солнца",
+    "From the Sun"
+  ],
+  "Xlorofilldan": [
+    "Из хлорофилла",
+    "From chlorophyll"
+  ],
+  "Karbonat angidrid havodan olinadi.": [
+    "Углекислый газ поступает из воздуха.",
+    "Carbon dioxide comes from the air."
+  ],
+  "Suv asosan tuproqdan olinadi; yorug‘lik quyoshdan keladi.": [
+    "Вода поступает главным образом из почвы, а свет — от Солнца.",
+    "Water mainly comes from the soil, while light comes from the Sun."
+  ],
+  "Fotosintezda qaysi gaz ajraladi?": [
+    "Какой газ выделяется в процессе фотосинтеза?",
+    "Which gas is released in photosynthesis?"
+  ],
+  "Azot": [
+    "Азот",
+    "Nitrogen"
+  ],
+  "Karbonat angidrid": [
+    "Углекислый газ",
+    "Carbon dioxide"
+  ],
+  "Kislorod": [
+    "Кислород",
+    "Oxygen"
+  ],
+  "Vodorod": [
+    "Водород",
+    "Hydrogen"
+  ],
+  "Fotosintez natijasida kislorod ajraladi.": [
+    "В результате фотосинтеза выделяется кислород.",
+    "Oxygen is released as a result of photosynthesis."
+  ],
+  "Karbonat angidrid boshlang‘ich modda sifatida ishlatiladi.": [
+    "Углекислый газ используется как исходное вещество.",
+    "Carbon dioxide is used as a starting substance."
+  ],
+  "Fotosintez uchun qaysi energiya zarur?": [
+    "Какая энергия необходима для фотосинтеза?",
+    "Which energy is essential for photosynthesis?"
+  ],
+  "Yorug‘lik energiyasi": [
+    "Световая энергия",
+    "Light energy"
+  ],
+  "Tovush energiyasi": [
+    "Звуковая энергия",
+    "Sound energy"
+  ],
+  "Faqat issiqlik": [
+    "Только тепло",
+    "Heat alone"
+  ],
+  "Elektr toki": [
+    "Электрический ток",
+    "Electric current"
+  ],
+  "Yorug‘lik energiyasi fotosintezni ta’minlaydi.": [
+    "Световая энергия обеспечивает фотосинтез.",
+    "Light energy powers photosynthesis."
+  ],
+  "Issiqlikning o‘zi yorug‘lik o‘rnini bosa olmaydi.": [
+    "Одно лишь тепло не может заменить свет.",
+    "Heat alone cannot replace light."
+  ],
+  "Fotosintezda hosil bo‘ladigan organik modda qaysi?": [
+    "Какое органическое вещество образуется при фотосинтезе?",
+    "Which organic substance is produced during photosynthesis?"
+  ],
+  "Suv": [
+    "Вода",
+    "Water"
+  ],
+  "Glyukoza": [
+    "Глюкоза",
+    "Glucose"
+  ],
+  "Glyukoza fotosintezda hosil bo‘ladigan organik moddadir.": [
+    "Глюкоза — органическое вещество, образующееся при фотосинтезе.",
+    "Glucose is the organic substance produced during photosynthesis."
+  ],
+  "Suv va karbonat angidrid boshlang‘ich moddalardir; kislorod organik modda emas.": [
+    "Вода и углекислый газ — исходные вещества; кислород не является органическим веществом.",
+    "Water and carbon dioxide are starting substances; oxygen is not an organic substance."
+  ],
+  "Fizika": [
+    "Физика",
+    "Physics"
+  ],
+  "Harakat, kuch va energiya qonuniyatlarini kashf eting.": [
+    "Откройте законы движения, силы и энергии.",
+    "Discover the laws of motion, force, and energy."
+  ],
+  "Matematika": [
+    "Математика",
+    "Mathematics"
+  ],
+  "Sonlar va tenglamalar bilan mantiqiy fikrlashni o‘rganing.": [
+    "Учитесь логически мыслить с числами и уравнениями.",
+    "Learn to think logically with numbers and equations."
+  ],
+  "Ingliz tili": [
+    "Английский язык",
+    "English"
+  ],
+  "Ingliz tili grammatikasini misollar bilan o‘zlashtiring.": [
+    "Осваивайте грамматику английского языка на примерах.",
+    "Master English grammar through examples."
+  ],
+  "Rus tili": [
+    "Русский язык",
+    "Russian"
+  ],
+  "Rus tili grammatikasining asosiy qoidalarini o‘rganing.": [
+    "Изучите основные правила русской грамматики.",
+    "Learn the core rules of Russian grammar."
+  ],
+  "Tezlik va harakat": [
+    "Скорость и движение",
+    "Speed and motion"
+  ],
+  "Yo‘l, vaqt va tezlik o‘rtasidagi bog‘lanishni tushuning.": [
+    "Поймите связь между путём, временем и скоростью.",
+    "Understand how distance, time, and speed are related."
+  ],
+  "Jism vaqt o‘tishi bilan joyini o‘zgartirsa, u harakatlanayotgan bo‘ladi.": [
+    "Если тело со временем меняет своё положение, оно движется.",
+    "If an object changes its position over time, it is moving."
+  ],
+  "Jismning bosib o‘tgan masofasi yo‘l deyiladi va metrda (m) o‘lchanadi. Harakat vaqti sekundda (s) o‘lchanadi. Tezlik vaqt birligida bosib o‘tilgan yo‘lni ko‘rsatadi: v = s / t. Tezlik o‘zgarmas bo‘lsa, harakat tekis harakat deyiladi. Yo‘lni topish uchun tezlikni vaqtga ko‘paytiramiz: s = v · t.": [
+    "Расстояние, пройденное телом, называется путём и измеряется в метрах (м). Время движения измеряется в секундах (с). Скорость показывает путь, пройденный за единицу времени: v = s / t. Если скорость не меняется, движение называется равномерным. Чтобы найти путь, скорость умножают на время: s = v · t.",
+    "The distance an object covers is called its path and is measured in metres (m). Time is measured in seconds (s). Speed shows the distance covered per unit of time: v = s / t. If the speed does not change, the motion is called uniform. To find the distance, multiply speed by time: s = v · t."
+  ],
+  "Velosipedchi 10 sekundda 50 metr yo‘l bosdi. Uning tezligi v = 50 m / 10 s = 5 m/s.": [
+    "Велосипедист проехал 50 метров за 10 секунд. Его скорость v = 50 м / 10 с = 5 м/с.",
+    "A cyclist rode 50 metres in 10 seconds. Their speed is v = 50 m / 10 s = 5 m/s."
+  ],
+  "Tezlik formulasi qanday?": [
+    "Какова формула скорости?",
+    "What is the formula for speed?"
+  ],
+  "Yo‘l qaysi birlikda o‘lchanadi?": [
+    "В каких единицах измеряется путь?",
+    "What unit is distance measured in?"
+  ],
+  "Metrda (m).": [
+    "В метрах (м).",
+    "Metres (m)."
+  ],
+  "Tekis harakat nima?": [
+    "Что такое равномерное движение?",
+    "What is uniform motion?"
+  ],
+  "Tezlik o‘zgarmas bo‘lgan harakat.": [
+    "Движение с постоянной скоростью.",
+    "Motion at a constant speed."
+  ],
+  "Yo‘lni qanday topamiz?": [
+    "Как найти путь?",
+    "How do we find the distance?"
+  ],
+  "Tezlikni vaqtga ko‘paytirib: s = v · t.": [
+    "Умножить скорость на время: s = v · t.",
+    "Multiply speed by time: s = v · t."
+  ],
+  "Tezlik formulasi": [
+    "Формула скорости",
+    "The speed formula"
+  ],
+  "Tezlik yo‘lni vaqtga bo‘lish orqali topiladi: v = s / t. Natija m/s da chiqadi.": [
+    "Скорость находят делением пути на время: v = s / t. Результат получается в м/с.",
+    "Speed is found by dividing distance by time: v = s / t. The result is in m/s."
+  ],
+  "Agar har sekundda 3 qadam tashlasangiz, tezligingiz «sekundiga 3 qadam» bo‘ladi — fizikada qadam o‘rniga metr olinadi.": [
+    "Если вы делаете 3 шага в секунду, ваша скорость — «3 шага в секунду»; в физике вместо шагов берут метры.",
+    "If you take 3 steps every second, your speed is “3 steps per second” — physics simply uses metres instead of steps."
+  ],
+  "20 m yo‘lni 4 s da bosgan jism tezligi necha m/s?": [
+    "Тело прошло 20 м за 4 с. Какова его скорость в м/с?",
+    "An object covers 20 m in 4 s. What is its speed in m/s?"
+  ],
+  "20 / 4 = 5 m/s.": [
+    "20 / 4 = 5 м/с.",
+    "20 / 4 = 5 m/s."
+  ],
+  "Yo‘lni topish": [
+    "Нахождение пути",
+    "Finding the distance"
+  ],
+  "Tezlik va vaqt ma’lum bo‘lsa, yo‘l s = v · t formula bilan topiladi.": [
+    "Если известны скорость и время, путь находят по формуле s = v · t.",
+    "When speed and time are known, distance is found with s = v · t."
+  ],
+  "Har soatda 60 km yuradigan avtobus 2 soatda 120 km yo‘l bosadi.": [
+    "Автобус, проезжающий 60 км в час, за 2 часа проедет 120 км.",
+    "A bus that travels 60 km every hour covers 120 km in 2 hours."
+  ],
+  "3 m/s tezlik bilan 10 s harakatlangan jism necha metr yo‘l bosadi?": [
+    "Сколько метров пройдёт тело за 10 с со скоростью 3 м/с?",
+    "How many metres does an object cover in 10 s at 3 m/s?"
+  ],
+  "3 × 10 = 30 m.": [
+    "3 × 10 = 30 м.",
+    "3 × 10 = 30 m."
+  ],
+  "O‘lchov birliklari": [
+    "Единицы измерения",
+    "Units of measurement"
+  ],
+  "Xalqaro birliklar tizimida yo‘l metrda, vaqt sekundda, tezlik esa m/s da o‘lchanadi.": [
+    "В Международной системе единиц путь измеряется в метрах, время — в секундах, скорость — в м/с.",
+    "In the International System of Units, distance is in metres, time in seconds, and speed in m/s."
+  ],
+  "Birliklar umumiy tilga o‘xshaydi: hamma bir xil birlikdan foydalansa, natijalarni solishtirish oson.": [
+    "Единицы похожи на общий язык: когда все пользуются одними единицами, результаты легко сравнивать.",
+    "Units are like a shared language: when everyone uses the same ones, results are easy to compare."
+  ],
+  "Vaqtning asosiy birligi nima?": [
+    "Какая основная единица времени?",
+    "What is the base unit of time?"
+  ],
+  "sekund": [
+    "секунда",
+    "second"
+  ],
+  "Vaqt sekundda (s) o‘lchanadi.": [
+    "Время измеряется в секундах (с).",
+    "Time is measured in seconds (s)."
+  ],
+  "100 m yo‘lni 20 s da bosgan jismning tezligi qancha?": [
+    "Какова скорость тела, прошедшего 100 м за 20 с?",
+    "What is the speed of an object that covers 100 m in 20 s?"
+  ],
+  "2 m/s": [
+    "2 м/с",
+    "2 m/s"
+  ],
+  "5 m/s": [
+    "5 м/с",
+    "5 m/s"
+  ],
+  "80 m/s": [
+    "80 м/с",
+    "80 m/s"
+  ],
+  "2000 m/s": [
+    "2000 м/с",
+    "2000 m/s"
+  ],
+  "100 / 20 = 5 m/s.": [
+    "100 / 20 = 5 м/с.",
+    "100 / 20 = 5 m/s."
+  ],
+  "Tezlikni topish uchun yo‘lni vaqtga bo‘ling, ko‘paytirmang.": [
+    "Чтобы найти скорость, путь делят на время, а не умножают.",
+    "To find speed, divide distance by time — do not multiply."
+  ],
+  "4 m/s tezlik bilan 15 s harakatlangan jism qancha yo‘l bosadi?": [
+    "Какой путь пройдёт тело за 15 с со скоростью 4 м/с?",
+    "How far does an object travel in 15 s at 4 m/s?"
+  ],
+  "19 m": [
+    "19 м",
+    "19 m"
+  ],
+  "11 m": [
+    "11 м",
+    "11 m"
+  ],
+  "60 m": [
+    "60 м",
+    "60 m"
+  ],
+  "3,75 m": [
+    "3,75 м",
+    "3.75 m"
+  ],
+  "s = v · t = 4 × 15 = 60 m.": [
+    "s = v · t = 4 × 15 = 60 м.",
+    "s = v · t = 4 × 15 = 60 m."
+  ],
+  "Yo‘lni topishda tezlik va vaqt ko‘paytiriladi.": [
+    "Чтобы найти путь, скорость и время перемножают.",
+    "To find distance, multiply speed and time."
+  ],
+  "Tezlikning XBT dagi birligi qaysi?": [
+    "Какова единица скорости в СИ?",
+    "What is the SI unit of speed?"
+  ],
+  "m/s": [
+    "м/с",
+    "m/s"
+  ],
+  "km": [
+    "км",
+    "km"
+  ],
+  "s": [
+    "с",
+    "s"
+  ],
+  "kg": [
+    "кг",
+    "kg"
+  ],
+  "Tezlik metr taqsim sekundda o‘lchanadi.": [
+    "Скорость измеряется в метрах в секунду.",
+    "Speed is measured in metres per second."
+  ],
+  "km — masofa, s — vaqt, kg — massa birligi.": [
+    "км — единица расстояния, с — времени, кг — массы.",
+    "km is a unit of distance, s of time, kg of mass."
+  ],
+  "Tekis harakatda nima o‘zgarmaydi?": [
+    "Что не меняется при равномерном движении?",
+    "What stays the same in uniform motion?"
+  ],
+  "Yo‘l": [
+    "Путь",
+    "Distance"
+  ],
+  "Vaqt": [
+    "Время",
+    "Time"
+  ],
+  "Tezlik": [
+    "Скорость",
+    "Speed"
+  ],
+  "Joylashuv": [
+    "Положение",
+    "Position"
+  ],
+  "Tekis harakatda tezlik o‘zgarmas bo‘ladi.": [
+    "При равномерном движении скорость постоянна.",
+    "In uniform motion, speed is constant."
+  ],
+  "Yo‘l va vaqt ortib boradi, tezlik esa bir xil qoladi.": [
+    "Путь и время растут, а скорость остаётся прежней.",
+    "Distance and time keep growing, while speed stays the same."
+  ],
+  "Yo‘l qaysi harf bilan belgilanadi?": [
+    "Какой буквой обозначают путь?",
+    "Which letter stands for distance?"
+  ],
+  "Yo‘l s harfi bilan belgilanadi.": [
+    "Путь обозначают буквой s.",
+    "Distance is written as s."
+  ],
+  "v — tezlik, t — vaqt, m — massa belgisi.": [
+    "v — скорость, t — время, m — масса.",
+    "v is speed, t is time, m is mass."
+  ],
+  "Tok kuchi, kuchlanish va qarshilik bog‘liqligini o‘rganing.": [
+    "Изучите связь силы тока, напряжения и сопротивления.",
+    "Learn how current, voltage, and resistance are linked."
+  ],
+  "Elektr toki — zaryadli zarrachalarning tartibli harakati.": [
+    "Электрический ток — это упорядоченное движение заряженных частиц.",
+    "Electric current is the ordered movement of charged particles."
+  ],
+  "Metall o‘tkazgichlarda tokni elektronlar hosil qiladi. Tok kuchi I amperda (A), kuchlanish U voltda (V), qarshilik R esa omda (Ω) o‘lchanadi. Om qonuniga ko‘ra, zanjir qismidagi tok kuchi kuchlanishga to‘g‘ri, qarshilikka teskari proporsional: I = U / R. Tok faqat yopiq zanjirda oqadi.": [
+    "В металлических проводниках ток создают электроны. Сила тока I измеряется в амперах (А), напряжение U — в вольтах (В), сопротивление R — в омах (Ом). По закону Ома сила тока на участке цепи прямо пропорциональна напряжению и обратно пропорциональна сопротивлению: I = U / R. Ток течёт только в замкнутой цепи.",
+    "In metal conductors, current is carried by electrons. Current I is measured in amperes (A), voltage U in volts (V), and resistance R in ohms (Ω). By Ohm’s law, the current in a section of a circuit is directly proportional to voltage and inversely proportional to resistance: I = U / R. Current flows only in a closed circuit."
+  ],
+  "Qarshiligi 4 Ω bo‘lgan lampaga 12 V kuchlanish berilsa, tok kuchi I = 12 / 4 = 3 A bo‘ladi.": [
+    "Если на лампу сопротивлением 4 Ом подать напряжение 12 В, сила тока будет I = 12 / 4 = 3 А.",
+    "If 12 V is applied to a 4 Ω lamp, the current is I = 12 / 4 = 3 A."
+  ],
+  "Elektr toki nima?": [
+    "Что такое электрический ток?",
+    "What is electric current?"
+  ],
+  "Zaryadli zarrachalarning tartibli harakati.": [
+    "Упорядоченное движение заряженных частиц.",
+    "The ordered movement of charged particles."
+  ],
+  "Tok kuchi qaysi birlikda o‘lchanadi?": [
+    "В чём измеряется сила тока?",
+    "What unit is current measured in?"
+  ],
+  "Amperda (A).": [
+    "В амперах (А).",
+    "Amperes (A)."
+  ],
+  "Om qonuni formulasi?": [
+    "Формула закона Ома?",
+    "What is the formula for Ohm’s law?"
+  ],
+  "Tok qanday zanjirda oqadi?": [
+    "В какой цепи течёт ток?",
+    "In what kind of circuit does current flow?"
+  ],
+  "Yopiq zanjirda.": [
+    "В замкнутой цепи.",
+    "In a closed circuit."
+  ],
+  "Om qonuni": [
+    "Закон Ома",
+    "Ohm’s law"
+  ],
+  "Tok kuchi kuchlanishni qarshilikka bo‘lish orqali topiladi: I = U / R. Kuchlanish ortsa tok ortadi, qarshilik ortsa tok kamayadi.": [
+    "Силу тока находят делением напряжения на сопротивление: I = U / R. Чем больше напряжение, тем больше ток; чем больше сопротивление, тем меньше ток.",
+    "Current is voltage divided by resistance: I = U / R. More voltage means more current; more resistance means less current."
+  ],
+  "Quvurdagi suvni tasavvur qiling: bosim — kuchlanish, quvurning torligi — qarshilik, oqayotgan suv — tok.": [
+    "Представьте воду в трубе: напор — это напряжение, узость трубы — сопротивление, а текущая вода — ток.",
+    "Picture water in a pipe: pressure is voltage, a narrow pipe is resistance, and the flowing water is current."
+  ],
+  "6 V kuchlanish va 2 Ω qarshilikda tok kuchi necha amper?": [
+    "Какова сила тока при напряжении 6 В и сопротивлении 2 Ом (в амперах)?",
+    "What is the current in amperes at 6 V and 2 Ω?"
+  ],
+  "6 / 2 = 3 A.": [
+    "6 / 2 = 3 А.",
+    "6 / 2 = 3 A."
+  ],
+  "Elektr kattaliklari birliklari": [
+    "Единицы электрических величин",
+    "Units of electrical quantities"
+  ],
+  "Tok kuchi amperda, kuchlanish voltda, qarshilik omda o‘lchanadi.": [
+    "Сила тока измеряется в амперах, напряжение — в вольтах, сопротивление — в омах.",
+    "Current is measured in amperes, voltage in volts, and resistance in ohms."
+  ],
+  "Har bir kattalikning o‘z «familiyasi» bor: amper, volt va om — olimlar sharafiga qo‘yilgan nomlar.": [
+    "У каждой величины своя «фамилия»: ампер, вольт и ом названы в честь учёных.",
+    "Each quantity has its own “surname”: ampere, volt, and ohm are named after scientists."
+  ],
+  "Kuchlanish qaysi birlikda o‘lchanadi?": [
+    "В чём измеряется напряжение?",
+    "What unit is voltage measured in?"
+  ],
+  "volt": [
+    "вольт",
+    "volt"
+  ],
+  "Kuchlanish voltda (V) o‘lchanadi.": [
+    "Напряжение измеряется в вольтах (В).",
+    "Voltage is measured in volts (V)."
+  ],
+  "Yopiq zanjir": [
+    "Замкнутая цепь",
+    "A closed circuit"
+  ],
+  "Tok oqishi uchun manba, o‘tkazgich va iste’molchi uzilishsiz ulangan bo‘lishi kerak. Kalit ochilsa, zanjir uziladi va tok to‘xtaydi.": [
+    "Чтобы шёл ток, источник, провода и потребитель должны быть соединены без разрывов. Если ключ разомкнуть, цепь разрывается и ток прекращается.",
+    "For current to flow, the source, wires, and device must be connected without gaps. Opening the switch breaks the circuit and the current stops."
+  ],
+  "Zanjir aylana yo‘lga o‘xshaydi: ko‘prik buzilsa, mashinalar aylana bo‘ylab yura olmaydi.": [
+    "Цепь похожа на кольцевую дорогу: если мост разрушен, машины не смогут проехать по кругу.",
+    "A circuit is like a ring road: if a bridge is out, cars cannot go all the way around."
+  ],
+  "Kalit ochilganda zanjirda tok bo‘ladimi? (ha/yo‘q)": [
+    "Есть ли ток в цепи, когда ключ разомкнут? (да/нет)",
+    "Is there current in the circuit when the switch is open? (yes/no)"
+  ],
+  "yo‘q": [
+    "нет",
+    "no"
+  ],
+  "Ochiq zanjirda tok oqmaydi.": [
+    "В разомкнутой цепи ток не течёт.",
+    "No current flows in an open circuit."
+  ],
+  "Kuchlanish 10 V, qarshilik 5 Ω bo‘lsa, tok kuchi qancha?": [
+    "Напряжение 10 В, сопротивление 5 Ом. Какова сила тока?",
+    "The voltage is 10 V and the resistance is 5 Ω. What is the current?"
+  ],
+  "50 A": [
+    "50 А",
+    "50 A"
+  ],
+  "2 A": [
+    "2 А",
+    "2 A"
+  ],
+  "15 A": [
+    "15 А",
+    "15 A"
+  ],
+  "0,5 A": [
+    "0,5 А",
+    "0.5 A"
+  ],
+  "I = U / R = 10 / 5 = 2 A.": [
+    "I = U / R = 10 / 5 = 2 А.",
+    "I = U / R = 10 / 5 = 2 A."
+  ],
+  "Om qonunida kuchlanish qarshilikka bo‘linadi.": [
+    "По закону Ома напряжение делят на сопротивление.",
+    "In Ohm’s law, voltage is divided by resistance."
+  ],
+  "Qarshilik qaysi birlikda o‘lchanadi?": [
+    "В чём измеряется сопротивление?",
+    "What unit is resistance measured in?"
+  ],
+  "Amper": [
+    "Ампер",
+    "Ampere"
+  ],
+  "Volt": [
+    "Вольт",
+    "Volt"
+  ],
+  "Om": [
+    "Ом",
+    "Ohm"
+  ],
+  "Vatt": [
+    "Ватт",
+    "Watt"
+  ],
+  "Qarshilik omda (Ω) o‘lchanadi.": [
+    "Сопротивление измеряется в омах (Ом).",
+    "Resistance is measured in ohms (Ω)."
+  ],
+  "Amper — tok kuchi, volt — kuchlanish birligi.": [
+    "Ампер — единица силы тока, вольт — напряжения.",
+    "The ampere is the unit of current; the volt is the unit of voltage."
+  ],
+  "Kuchlanish o‘zgarmay qarshilik ortsa, tok kuchi qanday o‘zgaradi?": [
+    "Как изменится сила тока, если сопротивление растёт, а напряжение не меняется?",
+    "If resistance increases while voltage stays the same, what happens to the current?"
+  ],
+  "Ortadi": [
+    "Увеличится",
+    "It increases"
+  ],
+  "Kamayadi": [
+    "Уменьшится",
+    "It decreases"
+  ],
+  "O‘zgarmaydi": [
+    "Не изменится",
+    "It stays the same"
+  ],
+  "Nolga teng bo‘ladi": [
+    "Станет равной нулю",
+    "It becomes zero"
+  ],
+  "Tok qarshilikka teskari proporsional, shuning uchun kamayadi.": [
+    "Ток обратно пропорционален сопротивлению, поэтому он уменьшится.",
+    "Current is inversely proportional to resistance, so it decreases."
+  ],
+  "Qarshilik — tokka to‘siq; to‘siq kattalashsa, tok kamayadi.": [
+    "Сопротивление — препятствие для тока; чем оно больше, тем меньше ток.",
+    "Resistance is an obstacle to current; a bigger obstacle means less current."
+  ],
+  "Zanjirda tok oqishi uchun qanday shart kerak?": [
+    "Какое условие нужно, чтобы в цепи шёл ток?",
+    "What is needed for current to flow in a circuit?"
+  ],
+  "Zanjir ochiq bo‘lishi": [
+    "Цепь должна быть разомкнута",
+    "The circuit must be open"
+  ],
+  "Zanjir yopiq bo‘lishi": [
+    "Цепь должна быть замкнута",
+    "The circuit must be closed"
+  ],
+  "Manba bo‘lmasligi": [
+    "Не должно быть источника",
+    "There must be no source"
+  ],
+  "O‘tkazgich uzilgan bo‘lishi": [
+    "Провод должен быть оборван",
+    "The wire must be broken"
+  ],
+  "Tok faqat yopiq zanjirda oqadi.": [
+    "Ток течёт только в замкнутой цепи.",
+    "Current flows only in a closed circuit."
+  ],
+  "Zanjir uzilsa, zaryadlar harakati to‘xtaydi.": [
+    "Если цепь разорвана, движение зарядов прекращается.",
+    "If the circuit is broken, the charges stop moving."
+  ],
+  "Tok kuchi qaysi harf bilan belgilanadi?": [
+    "Какой буквой обозначают силу тока?",
+    "Which letter stands for current?"
+  ],
+  "Tok kuchi I harfi bilan belgilanadi.": [
+    "Сила тока обозначается буквой I.",
+    "Current is written as I."
+  ],
+  "U — kuchlanish, R — qarshilik, A esa birlik (amper).": [
+    "U — напряжение, R — сопротивление, а A — единица (ампер).",
+    "U is voltage, R is resistance, and A is a unit (ampere)."
+  ],
+  "Oddiy kasrlar": [
+    "Обыкновенные дроби",
+    "Fractions"
+  ],
+  "Kasrlarni qisqartirish va qo‘shishni tushuning.": [
+    "Научитесь сокращать и складывать дроби.",
+    "Learn to simplify and add fractions."
+  ],
+  "Kasr butunning qismlarini ko‘rsatadi.": [
+    "Дробь показывает части целого.",
+    "A fraction shows parts of a whole."
+  ],
+  "Kasr chizig‘i ustidagi son surat, ostidagi son maxraj deyiladi. Maxraj butun nechta teng qismga bo‘linganini, surat esa nechta qism olinganini bildiradi. Kasrni qisqartirish uchun surat va maxraj bir xil songa bo‘linadi. Maxrajlari bir xil kasrlarni qo‘shishda suratlar qo‘shiladi, maxraj esa o‘zgarmaydi.": [
+    "Число над чертой дроби называется числителем, под чертой — знаменателем. Знаменатель показывает, на сколько равных частей разделено целое, а числитель — сколько частей взято. Чтобы сократить дробь, числитель и знаменатель делят на одно и то же число. При сложении дробей с одинаковыми знаменателями числители складывают, а знаменатель оставляют прежним.",
+    "The number above the fraction bar is the numerator, and the number below is the denominator. The denominator shows how many equal parts the whole is split into; the numerator shows how many parts are taken. To simplify a fraction, divide the numerator and denominator by the same number. To add fractions with the same denominator, add the numerators and keep the denominator."
+  ],
+  "Pitsa 8 bo‘lakka bo‘lindi va 2 bo‘lagi yeyildi: bu 2/8 = 1/4 qism. 1/5 + 2/5 = 3/5.": [
+    "Пиццу разрезали на 8 кусков и съели 2: это 2/8 = 1/4 пиццы. 1/5 + 2/5 = 3/5.",
+    "A pizza is cut into 8 slices and 2 are eaten: that is 2/8 = 1/4 of the pizza. 1/5 + 2/5 = 3/5."
+  ],
+  "Kasrning surati nima?": [
+    "Что такое числитель дроби?",
+    "What is the numerator?"
+  ],
+  "Kasr chizig‘i ustidagi son.": [
+    "Число над чертой дроби.",
+    "The number above the fraction bar."
+  ],
+  "Maxraj nimani bildiradi?": [
+    "Что показывает знаменатель?",
+    "What does the denominator show?"
+  ],
+  "Butun nechta teng qismga bo‘linganini.": [
+    "На сколько равных частей разделено целое.",
+    "How many equal parts the whole is split into."
+  ],
+  "4/8 ni qisqartiring.": [
+    "Сократите 4/8.",
+    "Simplify 4/8."
+  ],
+  "Surat va maxraj": [
+    "Числитель и знаменатель",
+    "Numerator and denominator"
+  ],
+  "Maxraj butun nechta teng qismga bo‘linganini, surat esa shundan nechtasi olinganini ko‘rsatadi.": [
+    "Знаменатель показывает, на сколько равных частей разделено целое, а числитель — сколько из них взято.",
+    "The denominator shows how many equal parts make the whole; the numerator shows how many of them are taken."
+  ],
+  "Shokolad 6 bo‘lakka bo‘lingan bo‘lsa, maxraj 6; siz 2 bo‘lak olsangiz, surat 2 bo‘ladi.": [
+    "Если шоколадка разделена на 6 долек, знаменатель — 6; если вы взяли 2 дольки, числитель — 2.",
+    "If a chocolate bar has 6 pieces, the denominator is 6; if you take 2 pieces, the numerator is 2."
+  ],
+  "3/10 kasrning maxraji nechaga teng?": [
+    "Чему равен знаменатель дроби 3/10?",
+    "What is the denominator of 3/10?"
+  ],
+  "Maxraj — chiziq ostidagi son: 10.": [
+    "Знаменатель — число под чертой: 10.",
+    "The denominator is the number below the bar: 10."
+  ],
+  "Kasrni qisqartirish": [
+    "Сокращение дробей",
+    "Simplifying fractions"
+  ],
+  "Surat va maxrajni ularning umumiy bo‘luvchisiga bo‘lsak, kasr qiymati o‘zgarmaydi, faqat ko‘rinishi soddalashadi.": [
+    "Если разделить числитель и знаменатель на общий делитель, значение дроби не изменится — изменится только её запись.",
+    "Dividing the numerator and denominator by a common factor keeps the value the same and only makes the fraction simpler."
+  ],
+  "Bir pitsani 8 yoki 4 bo‘lakka bo‘lsangiz ham, uning yarmi baribir yarim bo‘lib qoladi.": [
+    "Разрежете ли вы пиццу на 8 или на 4 куска, половина всё равно останется половиной.",
+    "Whether you cut a pizza into 8 or 4 slices, half of it is still half."
+  ],
+  "6/9 kasrni qisqartirganda surat nechaga teng bo‘ladi?": [
+    "Чему будет равен числитель после сокращения дроби 6/9?",
+    "After simplifying 6/9, what is the numerator?"
+  ],
+  "6 va 9 ni 3 ga bo‘lamiz: 2/3.": [
+    "Делим 6 и 9 на 3: 2/3.",
+    "Divide 6 and 9 by 3: 2/3."
+  ],
+  "Bir xil maxrajli kasrlarni qo‘shish": [
+    "Сложение дробей с одинаковыми знаменателями",
+    "Adding fractions with the same denominator"
+  ],
+  "Maxrajlar teng bo‘lsa, faqat suratlar qo‘shiladi, maxraj o‘zgarmaydi.": [
+    "Если знаменатели равны, складывают только числители, а знаменатель не меняется.",
+    "When the denominators are equal, add only the numerators and keep the denominator."
+  ],
+  "3 ta chorak va yana 1 ta chorak — jami 4 ta chorak: bo‘laklar soni o‘zgaradi, bo‘lak hajmi esa yo‘q.": [
+    "Три четверти и ещё одна четверть — всего четыре четверти: меняется число долей, а не их размер.",
+    "Three quarters plus one more quarter makes four quarters: the number of pieces changes, not their size."
+  ],
+  "1/9 + 4/9 yig‘indining surati nechaga teng?": [
+    "Чему равен числитель суммы 1/9 + 4/9?",
+    "What is the numerator of 1/9 + 4/9?"
+  ],
+  "1 + 4 = 5, javob 5/9.": [
+    "1 + 4 = 5, ответ 5/9.",
+    "1 + 4 = 5, so the answer is 5/9."
+  ],
+  "5/12 kasrda surat qaysi son?": [
+    "Какое число является числителем дроби 5/12?",
+    "Which number is the numerator of 5/12?"
+  ],
+  "Surat — kasr chizig‘i ustidagi son: 5.": [
+    "Числитель — число над чертой: 5.",
+    "The numerator is the number above the bar: 5."
+  ],
+  "12 — maxraj, u chiziq ostida turadi.": [
+    "12 — знаменатель, он стоит под чертой.",
+    "12 is the denominator; it sits below the bar."
+  ],
+  "8/12 kasrni qisqartiring.": [
+    "Сократите дробь 8/12.",
+    "Simplify 8/12."
+  ],
+  "8 va 12 ni 4 ga bo‘lamiz: 2/3.": [
+    "Делим 8 и 12 на 4: 2/3.",
+    "Divide 8 and 12 by 4: 2/3."
+  ],
+  "4/6 ham to‘g‘ri qiymat, lekin hali oxirigacha qisqartirilmagan.": [
+    "4/6 — то же значение, но дробь ещё не сокращена до конца.",
+    "4/6 has the same value, but it is not fully simplified yet."
+  ],
+  "Suratlar qo‘shiladi: 3 + 4 = 7, maxraj 10 qoladi.": [
+    "Складываем числители: 3 + 4 = 7, знаменатель остаётся 10.",
+    "Add the numerators: 3 + 4 = 7; the denominator stays 10."
+  ],
+  "Maxrajlarni qo‘shmang — ular bir xil bo‘lsa, o‘zgarmaydi.": [
+    "Не складывайте знаменатели — если они одинаковы, они не меняются.",
+    "Do not add the denominators — when they match, they stay the same."
+  ],
+  "Butun 6 ta teng qismga bo‘lingan va 1 qism olingan. Bu qaysi kasr?": [
+    "Целое разделили на 6 равных частей и взяли 1 часть. Какая это дробь?",
+    "A whole is split into 6 equal parts and 1 part is taken. Which fraction is this?"
+  ],
+  "1 qism olingan — surat 1; 6 qismga bo‘lingan — maxraj 6.": [
+    "Взята 1 часть — числитель 1; всего 6 частей — знаменатель 6.",
+    "1 part taken gives numerator 1; 6 parts in all gives denominator 6."
+  ],
+  "Maxraj umumiy qismlar soni, surat esa olingan qismlar soni.": [
+    "Знаменатель — общее число частей, числитель — число взятых частей.",
+    "The denominator is the total number of parts; the numerator is the number taken."
+  ],
+  "Qaysi kasr 1/2 ga teng?": [
+    "Какая дробь равна 1/2?",
+    "Which fraction equals 1/2?"
+  ],
+  "3/6 ni 3 ga qisqartirsak 1/2 hosil bo‘ladi.": [
+    "Сократив 3/6 на 3, получим 1/2.",
+    "Simplifying 3/6 by 3 gives 1/2."
+  ],
+  "Surat maxrajning aynan yarmiga teng bo‘lishi kerak.": [
+    "Числитель должен быть ровно половиной знаменателя.",
+    "The numerator must be exactly half of the denominator."
+  ],
+  "Chiziqli tenglamalar": [
+    "Линейные уравнения",
+    "Linear equations"
+  ],
+  "Noma’lumni topish uchun tenglamani bosqichma-bosqich yeching.": [
+    "Решайте уравнение шаг за шагом, чтобы найти неизвестное.",
+    "Solve equations step by step to find the unknown."
+  ],
+  "Tenglama — noma’lum son qatnashgan tenglik.": [
+    "Уравнение — это равенство с неизвестным числом.",
+    "An equation is an equality that contains an unknown number."
+  ],
+  "Tenglamani yechish — noma’lumning tenglikni to‘g‘ri qiladigan qiymatini topish demakdir. Tenglikning ikkala tomoniga bir xil son qo‘shish yoki ayirish mumkin. Ikkala tomonni noldan farqli bir xil songa ko‘paytirish yoki bo‘lish ham mumkin. Qo‘shiluvchini boshqa tomonga o‘tkazganda uning ishorasi o‘zgaradi.": [
+    "Решить уравнение — значит найти значение неизвестного, при котором равенство верно. К обеим частям равенства можно прибавить или вычесть одно и то же число. Обе части также можно умножить или разделить на одно и то же число, не равное нулю. При переносе слагаемого в другую часть его знак меняется.",
+    "Solving an equation means finding the value of the unknown that makes the equality true. You may add or subtract the same number on both sides. You may also multiply or divide both sides by the same non-zero number. When a term moves to the other side, its sign changes."
+  ],
+  "2x + 3 = 11. Ikkala tomondan 3 ni ayiramiz: 2x = 8. Ikkala tomonni 2 ga bo‘lamiz: x = 4. Tekshiramiz: 2 · 4 + 3 = 11.": [
+    "2x + 3 = 11. Вычитаем 3 из обеих частей: 2x = 8. Делим обе части на 2: x = 4. Проверка: 2 · 4 + 3 = 11.",
+    "2x + 3 = 11. Subtract 3 from both sides: 2x = 8. Divide both sides by 2: x = 4. Check: 2 · 4 + 3 = 11."
+  ],
+  "Tenglama nima?": [
+    "Что такое уравнение?",
+    "What is an equation?"
+  ],
+  "Noma’lum son qatnashgan tenglik.": [
+    "Равенство с неизвестным числом.",
+    "An equality that contains an unknown number."
+  ],
+  "x + 5 = 9 bo‘lsa, x = ?": [
+    "Если x + 5 = 9, то x = ?",
+    "If x + 5 = 9, x = ?"
+  ],
+  "Hadni boshqa tomonga o‘tkazganda nima o‘zgaradi?": [
+    "Что меняется при переносе слагаемого в другую часть?",
+    "What changes when a term moves to the other side?"
+  ],
+  "Uning ishorasi.": [
+    "Его знак.",
+    "Its sign."
+  ],
+  "3x = 12 bo‘lsa, x = ?": [
+    "Если 3x = 12, то x = ?",
+    "If 3x = 12, x = ?"
+  ],
+  "Tenglik muvozanati": [
+    "Равновесие равенства",
+    "Keeping the balance"
+  ],
+  "Tenglama — muvozanatdagi tarozi. Ikkala tomonga bir xil amal bajarilsa, muvozanat saqlanadi.": [
+    "Уравнение — это весы в равновесии. Если с обеими частями сделать одно и то же, равновесие сохранится.",
+    "An equation is a balanced scale. Doing the same thing to both sides keeps it balanced."
+  ],
+  "Tarozining ikki pallasiga bir xil yuk qo‘shsangiz, u baribir teng turadi.": [
+    "Если на обе чаши весов положить одинаковый груз, они останутся в равновесии.",
+    "Put the same weight on both pans of a scale and it stays level."
+  ],
+  "x − 7 = 3 tenglamada x nechaga teng?": [
+    "Чему равен x в уравнении x − 7 = 3?",
+    "In x − 7 = 3, what is x?"
+  ],
+  "Ikkala tomonga 7 qo‘shamiz: x = 10.": [
+    "Прибавляем 7 к обеим частям: x = 10.",
+    "Add 7 to both sides: x = 10."
+  ],
+  "Hadni o‘tkazish": [
+    "Перенос слагаемого",
+    "Moving a term"
+  ],
+  "Qo‘shiluvchi tenglikning boshqa tomoniga o‘tganda ishorasi teskarisiga o‘zgaradi: + bo‘lsa −, − bo‘lsa + bo‘ladi.": [
+    "При переносе слагаемого в другую часть равенства его знак меняется на противоположный: + на −, − на +.",
+    "When a term moves to the other side, its sign flips: + becomes −, and − becomes +."
+  ],
+  "Eshikdan chiqish kirishning teskarisi: tomonni almashtirsangiz, amal ham teskarisiga aylanadi.": [
+    "Выйти из двери — противоположно тому, чтобы войти: меняя сторону, меняешь и действие на обратное.",
+    "Walking out of a door undoes walking in: switch sides and the operation reverses too."
+  ],
+  "x + 6 = 15 bo‘lsa, x nechaga teng?": [
+    "Если x + 6 = 15, чему равен x?",
+    "If x + 6 = 15, what is x?"
+  ],
+  "6 ni o‘ngga o‘tkazamiz: x = 15 − 6 = 9.": [
+    "Переносим 6 вправо: x = 15 − 6 = 9.",
+    "Move 6 to the right: x = 15 − 6 = 9."
+  ],
+  "Koeffitsiyentga bo‘lish": [
+    "Деление на коэффициент",
+    "Dividing by the coefficient"
+  ],
+  "ax = b ko‘rinishidagi tenglamada x ni topish uchun ikkala tomon a ga bo‘linadi.": [
+    "Чтобы найти x в уравнении вида ax = b, обе части делят на a.",
+    "To find x in an equation like ax = b, divide both sides by a."
+  ],
+  "3 do‘st 18 ta konfetni teng bo‘lishsa, har biriga 18 / 3 = 6 tadan tegadi.": [
+    "Если 3 друга поровну делят 18 конфет, каждому достаётся 18 / 3 = 6.",
+    "If 3 friends share 18 sweets equally, each gets 18 / 3 = 6."
+  ],
+  "5x = 35 bo‘lsa, x nechaga teng?": [
+    "Если 5x = 35, чему равен x?",
+    "If 5x = 35, what is x?"
+  ],
+  "x + 8 = 20 tenglamani yeching.": [
+    "Решите уравнение x + 8 = 20.",
+    "Solve x + 8 = 20."
+  ],
+  "8 ni o‘ngga o‘tkazamiz: x = 20 − 8 = 12.": [
+    "Переносим 8 вправо: x = 20 − 8 = 12.",
+    "Move 8 to the right: x = 20 − 8 = 12."
+  ],
+  "Qo‘shiluvchini o‘tkazganda ishora o‘zgaradi: + 8 emas, − 8 bo‘ladi.": [
+    "При переносе знак меняется: не + 8, а − 8.",
+    "Moving a term flips its sign: it becomes − 8, not + 8."
+  ],
+  "4x = 28 bo‘lsa, x nechaga teng?": [
+    "Если 4x = 28, чему равен x?",
+    "If 4x = 28, what is x?"
+  ],
+  "Ikkala tomonni 4 ga bo‘lamiz: x = 7.": [
+    "Делим обе части на 4: x = 7.",
+    "Divide both sides by 4: x = 7."
+  ],
+  "4x — bu 4 · x; uni yo‘qotish uchun bo‘lish kerak, ayirish emas.": [
+    "4x — это 4 · x; чтобы избавиться от 4, нужно делить, а не вычитать.",
+    "4x means 4 · x; to undo it, divide — do not subtract."
+  ],
+  "2x + 1 = 9 tenglamaning yechimi qaysi?": [
+    "Каков корень уравнения 2x + 1 = 9?",
+    "What is the solution of 2x + 1 = 9?"
+  ],
+  "2x = 8, keyin x = 4.": [
+    "2x = 8, затем x = 4.",
+    "2x = 8, then x = 4."
+  ],
+  "Avval 1 ni ayiring, so‘ng 2 ga bo‘ling.": [
+    "Сначала вычтите 1, затем разделите на 2.",
+    "First subtract 1, then divide by 2."
+  ],
+  "x − 5 = 2 bo‘lsa, x = ?": [
+    "Если x − 5 = 2, то x = ?",
+    "If x − 5 = 2, x = ?"
+  ],
+  "5 ni o‘ngga o‘tkazamiz: x = 2 + 5 = 7.": [
+    "Переносим 5 вправо: x = 2 + 5 = 7.",
+    "Move 5 to the right: x = 2 + 5 = 7."
+  ],
+  "−5 boshqa tomonga +5 bo‘lib o‘tadi.": [
+    "−5 переходит в другую часть как +5.",
+    "−5 moves to the other side as +5."
+  ],
+  "Tenglamaning ikkala tomoniga bir xil son qo‘shilsa nima bo‘ladi?": [
+    "Что произойдёт, если к обеим частям уравнения прибавить одно и то же число?",
+    "What happens if you add the same number to both sides of an equation?"
+  ],
+  "Yechim o‘zgaradi": [
+    "Корень изменится",
+    "The solution changes"
+  ],
+  "Tenglik buziladi": [
+    "Равенство нарушится",
+    "The equality breaks"
+  ],
+  "Tenglik saqlanadi": [
+    "Равенство сохранится",
+    "The equality still holds"
+  ],
+  "Noma’lum yo‘qoladi": [
+    "Неизвестное исчезнет",
+    "The unknown disappears"
+  ],
+  "Ikkala tomonga bir xil amal tenglikni saqlaydi.": [
+    "Одинаковое действие с обеими частями сохраняет равенство.",
+    "Doing the same thing to both sides keeps the equality."
+  ],
+  "Faqat bir tomonga qo‘shsangiz muvozanat buziladi; ikkala tomonga qo‘shish xavfsiz.": [
+    "Если прибавить только к одной части, равновесие нарушится; прибавлять к обеим — безопасно.",
+    "Adding to just one side breaks the balance; adding to both sides is safe."
+  ],
+  "Doimiy odatlar va faktlar haqida gapirishni o‘rganing.": [
+    "Научитесь говорить о привычках и постоянных фактах.",
+    "Learn to talk about habits and facts."
+  ],
+  "Present Simple doimiy odatlar, kundalik ishlar va umumiy faktlarni ifodalaydi.": [
+    "Present Simple выражает привычки, повседневные действия и общие факты.",
+    "The Present Simple describes habits, daily routines, and general facts."
+  ],
+  "I, you, we, they bilan fe’l o‘zgarmaydi: I play. He, she, it bilan fe’lga -s yoki -es qo‘shiladi: she plays, he watches. Inkor gapda do not (don’t) yoki does not (doesn’t) ishlatiladi. Savol gap Do yoki Does bilan boshlanadi. Does dan keyin fe’l -s olmaydi.": [
+    "С I, you, we, they глагол не меняется: I play. С he, she, it к глаголу добавляется -s или -es: she plays, he watches. В отрицании используется do not (don’t) или does not (doesn’t). Вопрос начинается с Do или Does. После Does глагол не получает -s.",
+    "With I, you, we, and they, the verb does not change: I play. With he, she, and it, add -s or -es: she plays, he watches. Negatives use do not (don’t) or does not (doesn’t). Questions start with Do or Does. After Does, the verb takes no -s."
+  ],
+  "He bilan inkor qanday yasaladi?": [
+    "Как строится отрицание с he?",
+    "How do you make a negative with he?"
+  ],
+  "doesn’t + fe’l: He doesn’t play.": [
+    "doesn’t + глагол: He doesn’t play.",
+    "doesn’t + verb: He doesn’t play."
+  ],
+  "Savol gap qaysi so‘z bilan boshlanadi?": [
+    "С какого слова начинается вопрос?",
+    "Which word starts a question?"
+  ],
+  "Do yoki Does.": [
+    "Do или Does.",
+    "Do or Does."
+  ],
+  "Present Simple nimani ifodalaydi?": [
+    "Что выражает Present Simple?",
+    "What does the Present Simple express?"
+  ],
+  "Odatlar va doimiy faktlarni.": [
+    "Привычки и постоянные факты.",
+    "Habits and permanent facts."
+  ],
+  "He, she, it uchun -s": [
+    "-s для he, she, it",
+    "-s for he, she, it"
+  ],
+  "Uchinchi shaxs birlikda (he, she, it) fe’lga -s yoki -es qo‘shiladi: works, goes, watches.": [
+    "В третьем лице единственного числа (he, she, it) к глаголу добавляется -s или -es: works, goes, watches.",
+    "In the third person singular (he, she, it), add -s or -es to the verb: works, goes, watches."
+  ],
+  "-s — bu «boshqa bitta odam» haqida gapirayotganingizni bildiruvchi kichik belgi.": [
+    "-s — маленький знак того, что вы говорите о «ком-то одном другом».",
+    "The -s is a small signal that you are talking about “one other person”."
+  ],
+  "He ___ (read) books. Bo‘sh joyga so‘zni yozing.": [
+    "He ___ (read) books. Впишите слово.",
+    "He ___ (read) books. Fill in the word."
+  ],
+  "He bilan fe’l -s oladi: reads.": [
+    "С he глагол получает -s: reads.",
+    "With he, the verb takes -s: reads."
+  ],
+  "Do va Does": [
+    "Do и Does",
+    "Do and Does"
+  ],
+  "Savol va inkorda I, you, we, they bilan do, he, she, it bilan does ishlatiladi. Does dan keyin fe’l -s olmaydi.": [
+    "В вопросах и отрицаниях с I, you, we, they используется do, с he, she, it — does. После does глагол без -s.",
+    "In questions and negatives, use do with I, you, we, they and does with he, she, it. After does, the verb has no -s."
+  ],
+  "-s go‘yo does ga «ko‘chib o‘tadi»: She plays → Does she play?": [
+    "-s как будто «переезжает» в does: She plays → Does she play?",
+    "The -s “moves” onto does: She plays → Does she play?"
+  ],
+  "She bilan Does ishlatiladi.": [
+    "С she используется Does.",
+    "With she, use Does."
+  ],
+  "Qachon ishlatiladi": [
+    "Когда используется",
+    "When to use it"
+  ],
+  "Present Simple odatlar (every day, usually), jadvallar va umumiy haqiqatlar uchun ishlatiladi: The sun rises in the east.": [
+    "Present Simple используется для привычек (every day, usually), расписаний и общих истин: The sun rises in the east.",
+    "The Present Simple is used for habits (every day, usually), timetables, and general truths: The sun rises in the east."
+  ],
+  "Bu zamon — hayotingizning «doimiy jadvali», hozir sodir bo‘layotgan bir martalik ish emas.": [
+    "Это время — «постоянное расписание» вашей жизни, а не разовое действие прямо сейчас.",
+    "This tense is your life’s “regular timetable”, not a one-off action happening right now."
+  ],
+  "Umumiy fakt va «it» uchun: boils.": [
+    "Общий факт и подлежащее «it»: boils.",
+    "A general fact with “it” as the subject: boils."
+  ],
+  "He (my brother) bilan fe’l -s oladi: plays.": [
+    "С he (my brother) глагол получает -s: plays.",
+    "With he (my brother), the verb takes -s: plays."
+  ],
+  "Uchinchi shaxs birlikda fe’lga -s qo‘shishni unutmang.": [
+    "Не забудьте добавить -s в третьем лице единственного числа.",
+    "Remember to add -s in the third person singular."
+  ],
+  "They bilan Do ishlatiladi.": [
+    "С they используется Do.",
+    "With they, use Do."
+  ],
+  "Does faqat he, she, it bilan keladi.": [
+    "Does используется только с he, she, it.",
+    "Does is only used with he, she, it."
+  ],
+  "She bilan inkorda doesn’t ishlatiladi.": [
+    "В отрицании с she используется doesn’t.",
+    "Negatives with she use doesn’t."
+  ],
+  "don’t — I, you, we, they uchun.": [
+    "don’t — для I, you, we, they.",
+    "don’t is for I, you, we, they."
+  ],
+  "Qaysi gap Present Simple da to‘g‘ri yozilgan?": [
+    "Какое предложение в Present Simple написано правильно?",
+    "Which sentence is correct in the Present Simple?"
+  ],
+  "Umumiy fakt va «the sun» (it) uchun: rises.": [
+    "Общий факт, «the sun» = it: rises.",
+    "A general fact, and “the sun” is it: rises."
+  ],
+  "Sun — uchinchi shaxs birlik, fe’l -s oladi.": [
+    "Sun — третье лицо единственного числа, глагол получает -s.",
+    "Sun is third person singular, so the verb takes -s."
+  ],
+  "Does dan keyin fe’l asosiy shaklda: speak.": [
+    "После Does глагол в начальной форме: speak.",
+    "After Does, use the base verb: speak."
+  ],
+  "-s allaqachon does da bor, fe’lga qayta qo‘shilmaydi.": [
+    "-s уже есть в does, к глаголу его снова не добавляют.",
+    "The -s is already in does, so the verb does not take it again."
+  ],
+  "O‘tgan zamonda tugallangan ishlar haqida gapiring.": [
+    "Рассказывайте о завершённых действиях в прошлом.",
+    "Talk about finished actions in the past."
+  ],
+  "Past Simple o‘tmishda boshlanib, tugagan harakatni ifodalaydi.": [
+    "Past Simple выражает действие, которое началось и закончилось в прошлом.",
+    "The Past Simple describes an action that started and finished in the past."
+  ],
+  "To‘g‘ri fe’llarga -ed qo‘shiladi: play → played, watch → watched. Noto‘g‘ri fe’llarning o‘tgan zamon shaklini yodlash kerak: go → went, see → saw, have → had. Inkor va savolda did ishlatiladi, undan keyin fe’l asosiy shaklda keladi: I didn’t go. Did you see it? Ko‘pincha yesterday, last week, ago so‘zlari bilan keladi.": [
+    "К правильным глаголам добавляется -ed: play → played, watch → watched. Формы неправильных глаголов нужно запомнить: go → went, see → saw, have → had. В отрицании и вопросе используется did, после него глагол стоит в начальной форме: I didn’t go. Did you see it? Часто встречается со словами yesterday, last week, ago.",
+    "Regular verbs add -ed: play → played, watch → watched. Irregular past forms must be learned: go → went, see → saw, have → had. Negatives and questions use did, followed by the base verb: I didn’t go. Did you see it? It often appears with yesterday, last week, and ago."
+  ],
+  "play ning o‘tgan zamon shakli?": [
+    "Форма прошедшего времени от play?",
+    "Past form of play?"
+  ],
+  "go ning o‘tgan zamon shakli?": [
+    "Форма прошедшего времени от go?",
+    "Past form of go?"
+  ],
+  "Past Simple da savol qaysi so‘z bilan tuziladi?": [
+    "С каким словом строится вопрос в Past Simple?",
+    "Which word forms questions in the Past Simple?"
+  ],
+  "Did dan keyin fe’l qanday shaklda?": [
+    "В какой форме глагол после Did?",
+    "What form does the verb take after Did?"
+  ],
+  "Asosiy shaklda: Did you go?": [
+    "В начальной форме: Did you go?",
+    "The base form: Did you go?"
+  ],
+  "To‘g‘ri fe’llar": [
+    "Правильные глаголы",
+    "Regular verbs"
+  ],
+  "To‘g‘ri fe’llar o‘tgan zamonda -ed oladi: work → worked, clean → cleaned.": [
+    "Правильные глаголы в прошедшем времени получают -ed: work → worked, clean → cleaned.",
+    "Regular verbs take -ed in the past: work → worked, clean → cleaned."
+  ],
+  "-ed — fe’lga taqilgan «o‘tmish yorlig‘i».": [
+    "-ed — это «ярлык прошлого», прикреплённый к глаголу.",
+    "-ed is a “past label” attached to the verb."
+  ],
+  "watch fe’lining o‘tgan zamon shaklini yozing.": [
+    "Напишите форму прошедшего времени глагола watch.",
+    "Write the past form of watch."
+  ],
+  "To‘g‘ri fe’l: watch + ed = watched.": [
+    "Правильный глагол: watch + ed = watched.",
+    "A regular verb: watch + ed = watched."
+  ],
+  "Noto‘g‘ri fe’llar": [
+    "Неправильные глаголы",
+    "Irregular verbs"
+  ],
+  "Ba’zi fe’llar -ed olmaydi va shaklini o‘zgartiradi: go → went, eat → ate, see → saw. Ularni yodlash kerak.": [
+    "Некоторые глаголы не получают -ed и меняют форму: go → went, eat → ate, see → saw. Их нужно запомнить.",
+    "Some verbs do not take -ed and change form instead: go → went, eat → ate, see → saw. They must be memorised."
+  ],
+  "Noto‘g‘ri fe’llar taxallusli do‘stlarga o‘xshaydi: ularning o‘tgan zamondagi ismini alohida eslab qolasiz.": [
+    "Неправильные глаголы похожи на друзей с прозвищами: их «прошлое имя» приходится запоминать отдельно.",
+    "Irregular verbs are like friends with nicknames: you have to remember their “past name” separately."
+  ],
+  "see fe’lining o‘tgan zamon shaklini yozing.": [
+    "Напишите форму прошедшего времени глагола see.",
+    "Write the past form of see."
+  ],
+  "Did bilan savol va inkor": [
+    "Вопросы и отрицания с did",
+    "Questions and negatives with did"
+  ],
+  "Savol va inkorda did ishlatiladi, asosiy fe’l esa oddiy shaklga qaytadi: She went → Did she go? She didn’t go.": [
+    "В вопросах и отрицаниях используется did, а основной глагол возвращается в начальную форму: She went → Did she go? She didn’t go.",
+    "Questions and negatives use did, and the main verb returns to its base form: She went → Did she go? She didn’t go."
+  ],
+  "Did o‘tmishni o‘ziga oladi, shuning uchun fe’l «yengil» — asosiy shaklda qoladi.": [
+    "Did берёт прошлое на себя, поэтому глагол остаётся «лёгким» — в начальной форме.",
+    "Did carries the past, so the verb stays “light” in its base form."
+  ],
+  "Did you ___ (buy) bread? Bo‘sh joyga so‘zni yozing.": [
+    "Did you ___ (buy) bread? Впишите слово.",
+    "Did you ___ (buy) bread? Fill in the word."
+  ],
+  "Did dan keyin asosiy shakl: buy.": [
+    "После Did — начальная форма: buy.",
+    "After Did, use the base form: buy."
+  ],
+  "clean — to‘g‘ri fe’l: cleaned.": [
+    "clean — правильный глагол: cleaned.",
+    "clean is regular: cleaned."
+  ],
+  "Yesterday o‘tgan zamonni bildiradi, fe’lga -ed qo‘shing.": [
+    "Yesterday указывает на прошлое — добавьте к глаголу -ed.",
+    "Yesterday signals the past, so add -ed to the verb."
+  ],
+  "go — noto‘g‘ri fe’l, o‘tgan zamoni went.": [
+    "go — неправильный глагол, прошедшая форма went.",
+    "go is irregular; its past form is went."
+  ],
+  "go fe’liga -ed qo‘shilmaydi.": [
+    "К глаголу go не добавляют -ed.",
+    "go never takes -ed."
+  ],
+  "O‘tgan zamonda savol Did bilan tuziladi.": [
+    "В прошедшем времени вопрос строится с Did.",
+    "Past questions are formed with Did."
+  ],
+  "Yesterday — o‘tmish belgisi, Do/Does esa hozirgi zamon uchun.": [
+    "Yesterday — признак прошлого, а Do/Does — для настоящего времени.",
+    "Yesterday points to the past; Do and Does are for the present."
+  ],
+  "didn’t dan keyin fe’l asosiy shaklda: do.": [
+    "После didn’t глагол в начальной форме: do.",
+    "After didn’t, use the base verb: do."
+  ],
+  "O‘tmish didn’t da ifodalangan, fe’lni o‘zgartirmang.": [
+    "Прошлое уже выражено в didn’t — не меняйте глагол.",
+    "The past is already in didn’t — do not change the verb."
+  ],
+  "Qaysi fe’l noto‘g‘ri fe’l?": [
+    "Какой глагол неправильный?",
+    "Which verb is irregular?"
+  ],
+  "eat → ate: -ed olmaydi.": [
+    "eat → ate: не получает -ed.",
+    "eat → ate: it does not take -ed."
+  ],
+  "play, watch, clean -ed oladi — ular to‘g‘ri fe’llar.": [
+    "play, watch, clean получают -ed — это правильные глаголы.",
+    "play, watch, and clean take -ed — they are regular verbs."
+  ],
+  "Otlarning rodi": [
+    "Род существительных",
+    "Gender of nouns"
+  ],
+  "Rus tilida otning rodini oxirgi harfiga qarab aniqlang.": [
+    "Определяйте род существительного по последней букве.",
+    "Work out a Russian noun’s gender from its last letter."
+  ],
+  "Rus tilida har bir ot uchta roddan biriga tegishli: erkak, ayol yoki o‘rta rod.": [
+    "В русском языке каждое существительное относится к одному из трёх родов: мужскому, женскому или среднему.",
+    "In Russian, every noun belongs to one of three genders: masculine, feminine, or neuter."
+  ],
+  "Erkak rodidagi otlar odatda undosh yoki -й bilan tugaydi: стол, дом, музей. Ayol rodidagi otlar ko‘pincha -а yoki -я bilan tugaydi: книга, земля. O‘rta roddagi otlar -о yoki -е bilan tugaydi: окно, море. Rodni tekshirish uchun он, она, оно olmoshlarini qo‘yib ko‘rish mumkin: стол — он, книга — она, окно — оно.": [
+    "Существительные мужского рода обычно оканчиваются на согласный или -й: стол, дом, музей. Существительные женского рода чаще оканчиваются на -а или -я: книга, земля. Существительные среднего рода оканчиваются на -о или -е: окно, море. Чтобы проверить род, подставьте местоимения он, она, оно: стол — он, книга — она, окно — оно.",
+    "Masculine nouns usually end in a consonant or -й: стол, дом, музей. Feminine nouns often end in -а or -я: книга, земля. Neuter nouns end in -о or -е: окно, море. To check the gender, try the pronouns он, она, оно: стол — он, книга — она, окно — оно."
+  ],
+  "Мой дом (он) — erkak rod. Моя книга (она) — ayol rod. Моё окно (оно) — o‘rta rod.": [
+    "Мой дом (он) — мужской род. Моя книга (она) — женский род. Моё окно (оно) — средний род.",
+    "Мой дом (он) — masculine. Моя книга (она) — feminine. Моё окно (оно) — neuter."
+  ],
+  "стол qaysi rodda?": [
+    "Какого рода слово стол?",
+    "What gender is стол?"
+  ],
+  "Erkak rodida (он).": [
+    "Мужского рода (он).",
+    "Masculine (он)."
+  ],
+  "книга qaysi rodda?": [
+    "Какого рода слово книга?",
+    "What gender is книга?"
+  ],
+  "Ayol rodida (она).": [
+    "Женского рода (она).",
+    "Feminine (она)."
+  ],
+  "окно qaysi rodda?": [
+    "Какого рода слово окно?",
+    "What gender is окно?"
+  ],
+  "O‘rta rodda (оно).": [
+    "Среднего рода (оно).",
+    "Neuter (оно)."
+  ],
+  "O‘rta rod otlari qaysi harflar bilan tugaydi?": [
+    "На какие буквы оканчиваются существительные среднего рода?",
+    "Which letters do neuter nouns end in?"
+  ],
+  "-о yoki -е.": [
+    "-о или -е.",
+    "-о or -е."
+  ],
+  "Erkak rodi": [
+    "Мужской род",
+    "Masculine gender"
+  ],
+  "Undosh yoki -й bilan tugagan otlar ko‘pincha erkak rodida bo‘ladi va он bilan almashtiriladi: стол, чай, город.": [
+    "Существительные на согласный или -й обычно мужского рода и заменяются на он: стол, чай, город.",
+    "Nouns ending in a consonant or -й are usually masculine and are replaced by он: стол, чай, город."
+  ],
+  "Erkak rodi otlari «qattiq» tugaydi — oxirida unli yo‘q.": [
+    "Существительные мужского рода «твёрдо» заканчиваются — на конце нет гласной.",
+    "Masculine nouns end “hard” — there is no vowel at the end."
+  ],
+  "дом so‘ziga qaysi olmosh mos keladi? (он/она/оно)": [
+    "Какое местоимение подходит к слову дом? (он/она/оно)",
+    "Which pronoun fits дом? (он/она/оно)"
+  ],
+  "дом undosh bilan tugaydi — он.": [
+    "дом оканчивается на согласный — он.",
+    "дом ends in a consonant — он."
+  ],
+  "Ayol rodi": [
+    "Женский род",
+    "Feminine gender"
+  ],
+  "-а yoki -я bilan tugagan otlar ko‘pincha ayol rodida bo‘ladi va она bilan almashtiriladi: мама, школа, неделя.": [
+    "Существительные на -а или -я обычно женского рода и заменяются на она: мама, школа, неделя.",
+    "Nouns ending in -а or -я are usually feminine and are replaced by она: мама, школа, неделя."
+  ],
+  "-а va -я — ayol rodining eng ko‘p uchraydigan «imzosi».": [
+    "-а и -я — самая частая «подпись» женского рода.",
+    "-а and -я are the most common “signature” of the feminine gender."
+  ],
+  "школа so‘ziga qaysi olmosh mos keladi? (он/она/оно)": [
+    "Какое местоимение подходит к слову школа? (он/она/оно)",
+    "Which pronoun fits школа? (он/она/оно)"
+  ],
+  "школа -а bilan tugaydi — она.": [
+    "школа оканчивается на -а — она.",
+    "школа ends in -а — она."
+  ],
+  "O‘rta rod": [
+    "Средний род",
+    "Neuter gender"
+  ],
+  "-о yoki -е bilan tugagan otlar o‘rta rodda bo‘ladi va оно bilan almashtiriladi: молоко, солнце, поле.": [
+    "Существительные на -о или -е среднего рода и заменяются на оно: молоко, солнце, поле.",
+    "Nouns ending in -о or -е are neuter and are replaced by оно: молоко, солнце, поле."
+  ],
+  "O‘rta rod na erkak, na ayol: «оно» — neytral tanlov.": [
+    "Средний род — ни мужской, ни женский: «оно» — нейтральный выбор.",
+    "Neuter is neither masculine nor feminine: “оно” is the neutral choice."
+  ],
+  "море so‘ziga qaysi olmosh mos keladi? (он/она/оно)": [
+    "Какое местоимение подходит к слову море? (он/она/оно)",
+    "Which pronoun fits море? (он/она/оно)"
+  ],
+  "море -е bilan tugaydi — оно.": [
+    "море оканчивается на -е — оно.",
+    "море ends in -е — оно."
+  ],
+  "Qaysi ot erkak rodida?": [
+    "Какое существительное мужского рода?",
+    "Which noun is masculine?"
+  ],
+  "город undosh bilan tugaydi — он.": [
+    "город оканчивается на согласный — он.",
+    "город ends in a consonant — он."
+  ],
+  "книга, земля — ayol rodi; окно — o‘rta rod.": [
+    "книга, земля — женский род; окно — средний.",
+    "книга and земля are feminine; окно is neuter."
+  ],
+  "«неделя» so‘zi qaysi rodda?": [
+    "Какого рода слово «неделя»?",
+    "What gender is «неделя»?"
+  ],
+  "Erkak": [
+    "Мужской",
+    "Masculine"
+  ],
+  "Ayol": [
+    "Женский",
+    "Feminine"
+  ],
+  "O‘rta": [
+    "Средний",
+    "Neuter"
+  ],
+  "Rodsiz": [
+    "Без рода",
+    "No gender"
+  ],
+  "-я bilan tugaydi — она, ayol rodi.": [
+    "Оканчивается на -я — она, женский род.",
+    "It ends in -я — она, feminine."
+  ],
+  "-я oxiri ko‘pincha ayol rodini bildiradi.": [
+    "Окончание -я обычно указывает на женский род.",
+    "The ending -я usually signals the feminine gender."
+  ],
+  "Qaysi ot o‘rta rodda?": [
+    "Какое существительное среднего рода?",
+    "Which noun is neuter?"
+  ],
+  "солнце -е bilan tugaydi — оно.": [
+    "солнце оканчивается на -е — оно.",
+    "солнце ends in -е — оно."
+  ],
+  "стол, музей — erkak; мама — ayol rodi.": [
+    "стол, музей — мужской род; мама — женский.",
+    "стол and музей are masculine; мама is feminine."
+  ],
+  "«молоко» so‘ziga qaysi olmosh mos keladi?": [
+    "Какое местоимение подходит к слову «молоко»?",
+    "Which pronoun fits «молоко»?"
+  ],
+  "-о bilan tugagan ot — оно.": [
+    "Существительное на -о — оно.",
+    "A noun ending in -о takes оно."
+  ],
+  "они ko‘plik uchun; молоко esa birlikdagi o‘rta rod oti.": [
+    "они — для множественного числа, а молоко — существительное среднего рода в единственном числе.",
+    "они is plural, while молоко is a singular neuter noun."
+  ],
+  "«чай» so‘zi qaysi rodda?": [
+    "Какого рода слово «чай»?",
+    "What gender is «чай»?"
+  ],
+  "Ko‘plik": [
+    "Множественное число",
+    "Plural"
+  ],
+  "-й bilan tugagan ot erkak rodida: он.": [
+    "Существительное на -й — мужского рода: он.",
+    "A noun ending in -й is masculine: он."
+  ],
+  "-й unli emas; bunday otlar erkak rodiga kiradi.": [
+    "-й — не гласная; такие существительные мужского рода.",
+    "-й is not a vowel; such nouns are masculine."
+  ],
+  "Kelishiklar asoslari": [
+    "Основы падежей",
+    "Case basics"
+  ],
+  "Rus tilidagi oltita kelishik va ularning savollarini o‘rganing.": [
+    "Изучите шесть падежей русского языка и их вопросы.",
+    "Learn Russian’s six cases and the questions that identify them."
+  ],
+  "Rus tilida otlar gapdagi vazifasiga qarab kelishiklarda o‘zgaradi.": [
+    "В русском языке существительные изменяются по падежам в зависимости от роли в предложении.",
+    "In Russian, nouns change by case depending on their role in the sentence."
+  ],
+  "Rus tilida oltita kelishik bor: именительный (кто? что?), родительный (кого? чего?), дательный (кому? чему?), винительный (кого? что?), творительный (кем? чем?), предложный (о ком? о чём?). Kelishikni aniqlash uchun otga savol beriladi. Masalan, «Я пишу ручкой» gapida «чем?» savoli — творительный падеж.": [
+    "В русском языке шесть падежей: именительный (кто? что?), родительный (кого? чего?), дательный (кому? чему?), винительный (кого? что?), творительный (кем? чем?), предложный (о ком? о чём?). Чтобы определить падеж, к существительному задают вопрос. Например, в предложении «Я пишу ручкой» вопрос «чем?» — творительный падеж.",
+    "Russian has six cases: nominative (кто? что?), genitive (кого? чего?), dative (кому? чему?), accusative (кого? что?), instrumental (кем? чем?), and prepositional (о ком? о чём?). To find the case, ask a question about the noun. For example, in «Я пишу ручкой» the question is «чем?» — the instrumental case."
+  ],
+  "Это книга (что? — именительный). У меня нет книги (чего? — родительный). Я читаю о книге (о чём? — предложный).": [
+    "Это книга (что? — именительный). У меня нет книги (чего? — родительный). Я читаю о книге (о чём? — предложный).",
+    "Это книга (что? — nominative). У меня нет книги (чего? — genitive). Я читаю о книге (о чём? — prepositional)."
+  ],
+  "Rus tilida nechta kelishik bor?": [
+    "Сколько падежей в русском языке?",
+    "How many cases does Russian have?"
+  ],
+  "Oltita.": [
+    "Шесть.",
+    "Six."
+  ],
+  "Именительный падеж savollari?": [
+    "Вопросы именительного падежа?",
+    "Questions of the nominative case?"
+  ],
+  "Творительный падеж savollari?": [
+    "Вопросы творительного падежа?",
+    "Questions of the instrumental case?"
+  ],
+  "«о ком? о чём?» qaysi kelishik?": [
+    "«о ком? о чём?» — какой падеж?",
+    "Which case asks «о ком? о чём?»?"
+  ],
+  "Предложный падеж.": [
+    "Предложный падеж.",
+    "The prepositional case."
+  ],
+  "Kelishiklar tizimi": [
+    "Система падежей",
+    "The case system"
+  ],
+  "Rus tilida oltita kelishik bor va har birining o‘z savollari bor. Ot gapdagi vazifasiga ko‘ra qo‘shimchasini o‘zgartiradi.": [
+    "В русском языке шесть падежей, у каждого свои вопросы. Существительное меняет окончание в зависимости от роли в предложении.",
+    "Russian has six cases, each with its own questions. A noun changes its ending depending on its role in the sentence."
+  ],
+  "Kelishiklar — so‘zning turli «kiyimlari»: vaziyatga qarab ot boshqa qo‘shimcha kiyadi.": [
+    "Падежи — разные «наряды» слова: в зависимости от ситуации существительное надевает другое окончание.",
+    "Cases are a word’s different “outfits”: depending on the situation, the noun puts on a different ending."
+  ],
+  "Rus tilida nechta kelishik bor? Raqam bilan yozing.": [
+    "Сколько падежей в русском языке? Напишите цифрой.",
+    "How many cases does Russian have? Write a number."
+  ],
+  "Rus tilida 6 ta kelishik bor.": [
+    "В русском языке 6 падежей.",
+    "Russian has 6 cases."
+  ],
+  "Savol orqali aniqlash": [
+    "Определение по вопросу",
+    "Finding the case by its question"
+  ],
+  "Kelishikni aniqlash uchun otga savol beriladi: кем? чем? — творительный, кому? чему? — дательный.": [
+    "Чтобы определить падеж, к существительному задают вопрос: кем? чем? — творительный, кому? чему? — дательный.",
+    "To find the case, ask a question about the noun: кем? чем? — instrumental; кому? чему? — dative."
+  ],
+  "Savol — bu kelishikni ochadigan kalit.": [
+    "Вопрос — это ключ, который открывает падеж.",
+    "The question is the key that unlocks the case."
+  ],
+  "«чем?» savoli qaysi kelishikka tegishli? (rus tilida yozing)": [
+    "К какому падежу относится вопрос «чем?»? (напишите по-русски)",
+    "Which case does «чем?» belong to? (write it in Russian)"
+  ],
+  "чем? — творительный падеж.": [
+    "чем? — творительный падеж.",
+    "чем? — творительный (instrumental) case."
+  ],
+  "Именительный падеж — otning lug‘atdagi boshlang‘ich shakli. U кто? что? savollariga javob beradi va ko‘pincha gapda ega bo‘ladi.": [
+    "Именительный падеж — начальная словарная форма существительного. Он отвечает на вопросы кто? что? и чаще всего является подлежащим.",
+    "The nominative is a noun’s dictionary form. It answers кто? что? and is usually the subject of the sentence."
+  ],
+  "Bosh kelishik — so‘zning «pasportdagi» rasmiy ismi.": [
+    "Именительный падеж — официальное «паспортное» имя слова.",
+    "The nominative is the word’s official “passport” name."
+  ],
+  "«кто? что?» savollari qaysi kelishikka tegishli? (rus tilida yozing)": [
+    "К какому падежу относятся вопросы «кто? что?»? (напишите по-русски)",
+    "Which case do «кто? что?» belong to? (write it in Russian)"
+  ],
+  "кто? что? — именительный падеж.": [
+    "кто? что? — именительный падеж.",
+    "кто? что? — именительный (nominative) case."
+  ],
+  "Rus tilida oltita kelishik bor.": [
+    "В русском языке шесть падежей.",
+    "Russian has six cases."
+  ],
+  "Sanab chiqing: им., род., дат., вин., твор., предл. — jami oltita.": [
+    "Посчитайте: им., род., дат., вин., твор., предл. — всего шесть.",
+    "Count them: им., род., дат., вин., твор., предл. — six in total."
+  ],
+  "«Я пишу ручкой.» gapida «ручкой» qaysi kelishikda?": [
+    "В каком падеже слово «ручкой» в предложении «Я пишу ручкой.»?",
+    "In «Я пишу ручкой.», which case is «ручкой»?"
+  ],
+  "Пишу чем? — ручкой: творительный.": [
+    "Пишу чем? — ручкой: творительный.",
+    "Пишу чем? — ручкой: instrumental (творительный)."
+  ],
+  "Otga savol bering: «чем?» savoli творительный ga tegishli.": [
+    "Задайте вопрос к слову: «чем?» — это творительный падеж.",
+    "Ask a question about the noun: «чем?» belongs to the instrumental (творительный)."
+  ],
+  "Otning lug‘atdagi boshlang‘ich shakli qaysi kelishikda?": [
+    "В каком падеже стоит начальная (словарная) форма существительного?",
+    "Which case is a noun’s dictionary form?"
+  ],
+  "Lug‘atda otlar именительный padejida beriladi.": [
+    "В словаре существительные даются в именительном падеже.",
+    "Dictionaries list nouns in the nominative (именительный)."
+  ],
+  "Boshlang‘ich shakl кто? что? savollariga javob beradi.": [
+    "Начальная форма отвечает на вопросы кто? что?",
+    "The base form answers кто? что?"
+  ],
+  "«кому? чему?» savollari qaysi kelishikka tegishli?": [
+    "К какому падежу относятся вопросы «кому? чему?»?",
+    "Which case asks «кому? чему?»?"
+  ],
+  "кому? чему? — дательный падеж.": [
+    "кому? чему? — дательный падеж.",
+    "кому? чему? — the dative (дательный)."
+  ],
+  "Родительный — кого? чего?, предложный — о ком? о чём?": [
+    "Родительный — кого? чего?, предложный — о ком? о чём?",
+    "Genitive asks кого? чего?; prepositional asks о ком? о чём?"
+  ],
+  "«Я думаю о маме.» gapida «о маме» qaysi kelishikda?": [
+    "В каком падеже «о маме» в предложении «Я думаю о маме.»?",
+    "In «Я думаю о маме.», which case is «о маме»?"
+  ],
+  "Думаю о ком? — о маме: предложный.": [
+    "Думаю о ком? — о маме: предложный.",
+    "Думаю о ком? — о маме: prepositional (предложный)."
+  ],
+  "«о» predlogi va «о ком?» savoli предложный padejini ko‘rsatadi.": [
+    "Предлог «о» и вопрос «о ком?» указывают на предложный падеж.",
+    "The preposition «о» and the question «о ком?» point to the prepositional case."
+  ]
+}

@@ -1,0 +1,40 @@
+import { describe, expect, it } from 'vitest';
+import { randomUUID } from 'node:crypto';
+import { db } from '../src/lib/db';
+import { finalizeAttempt } from '../src/lib/quiz';
+
+describe('persisted learning loop', () => {
+  it('records mistakes, review, retry, rewards once, and rejects another user', async () => {
+    const user = await db.user.create({ data: { email: `${randomUUID()}@test.local`, passwordHash: 'test-only', profile: { create: { nickname: 'Sinov', track: 'school', grade: 8 } } } });
+    const stranger = await db.user.create({ data: { email: `${randomUUID()}@test.local`, passwordHash: 'test-only', profile: { create: { nickname: 'Begona', track: 'school', grade: 8 } } } });
+    const topicId = 'atom-tuzilishi';
+    const questions = await db.question.findMany({ where: { topicId }, orderBy: { order: 'asc' }, include: { choices: true } });
+    const first = await db.quizAttempt.create({ data: { userId: user.id, topicId } });
+    const answers = questions.map((q, i) => ({ questionId: q.id, choiceId: i === 0 ? q.choices.find(c => c.id !== q.correctChoiceId)!.id : q.correctChoiceId }));
+    await expect(finalizeAttempt(stranger.id, first.id, answers)).rejects.toThrow();
+    const completed = await finalizeAttempt(user.id, first.id, answers);
+    expect(completed.score).toBe(4);
+    const saved = await db.quizAttempt.findUniqueOrThrow({ where: { id: first.id }, include: { answers: true, reward: true } });
+    expect(saved.answers).toHaveLength(5);
+    expect(saved.answers.filter(a => !a.correct).map(a => a.conceptId)).toEqual(['atom-qismlari']);
+    expect(await db.alternativeExplanation.findUnique({ where: { conceptId: 'atom-qismlari' } })).toMatchObject({ title: 'Atomning qismlari' });
+    expect(saved.reward).toMatchObject({ xp: 30, coins: 4 });
+    await finalizeAttempt(user.id, first.id, answers);
+    expect(await db.rewardTransaction.count({ where: { attemptId: first.id } })).toBe(1);
+    const retry = await db.quizAttempt.create({ data: { userId: user.id, topicId } });
+    await finalizeAttempt(user.id, retry.id, questions.map(q => ({ questionId: q.id, choiceId: q.correctChoiceId })));
+    const retrySaved = await db.quizAttempt.findUniqueOrThrow({ where: { id: retry.id }, include: { reward: true } });
+    expect(retrySaved.score).toBe(5);
+    expect(retrySaved.reward).toMatchObject({ xp: 2, coins: 1 });
+    const profile = await db.profile.findUniqueOrThrow({ where: { userId: user.id } });
+    expect(profile).toMatchObject({ xp: 32, coins: 5 });
+    const concurrent = await db.quizAttempt.create({ data: { userId: user.id, topicId } });
+    const sameAnswers = questions.map(q => ({ questionId: q.id, choiceId: q.correctChoiceId }));
+    const submissions = await Promise.allSettled([finalizeAttempt(user.id, concurrent.id, sameAnswers), finalizeAttempt(user.id, concurrent.id, sameAnswers)]);
+    expect(submissions.every(item => item.status === 'fulfilled')).toBe(true);
+    expect(await db.rewardTransaction.count({ where: { attemptId: concurrent.id } })).toBe(1);
+    expect(await db.attemptAnswer.count({ where: { attemptId: concurrent.id } })).toBe(5);
+    await db.user.delete({ where: { id: user.id } });
+    await db.user.delete({ where: { id: stranger.id } });
+  });
+});

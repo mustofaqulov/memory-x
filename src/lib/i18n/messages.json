@@ -1,0 +1,847 @@
+{
+  "Til": [
+    "Язык",
+    "Language"
+  ],
+  "Yorug‘ rejim": [
+    "Светлая тема",
+    "Light mode"
+  ],
+  "Qorong‘i rejim": [
+    "Тёмная тема",
+    "Dark mode"
+  ],
+  "Xatolik": [
+    "Ошибка",
+    "Error"
+  ],
+  "Sahifani ochib bo‘lmadi": [
+    "Не удалось открыть страницу",
+    "Unable to open the page"
+  ],
+  "Aloqani tekshirib, qayta urinib ko‘ring. Saqlangan natijalaringiz o‘chmaydi.": [
+    "Проверьте соединение и попробуйте снова. Сохранённые результаты не пропадут.",
+    "Check your connection and try again. Your saved results are safe."
+  ],
+  "Qayta urinish": [
+    "Повторить",
+    "Try again"
+  ],
+  "MEMORYX — tushunib o‘rganing": [
+    "MEMORYX — учитесь с пониманием",
+    "MEMORYX — learn with understanding"
+  ],
+  "MEMORYX bosh sahifa": [
+    "Главная MEMORYX",
+    "MEMORYX home"
+  ],
+  "Asosiy menyu": [
+    "Главное меню",
+    "Main navigation"
+  ],
+  "Boshqaruv": [
+    "Обзор",
+    "Dashboard"
+  ],
+  "Profil": [
+    "Профиль",
+    "Profile"
+  ],
+  "Chiqish": [
+    "Выйти",
+    "Sign out"
+  ],
+  "Kirish": [
+    "Войти",
+    "Sign in"
+  ],
+  "Boshlash": [
+    "Начать",
+    "Get started"
+  ],
+  "Virtual tangalar pul qiymatiga ega emas. Ma’lumotlaringiz faqat o‘qish jarayoni uchun saqlanadi.": [
+    "Виртуальные монеты не имеют денежной стоимости. Данные сохраняются только для обучения.",
+    "Virtual coins have no monetary value. Your data is stored only for learning."
+  ],
+  "Yuklanmoqda…": [
+    "Загрузка…",
+    "Loading…"
+  ],
+  "Ma’lumotlaringiz tayyorlanmoqda.": [
+    "Подготавливаем ваши данные.",
+    "Getting your data ready."
+  ],
+  "Sahifa topilmadi": [
+    "Страница не найдена",
+    "Page not found"
+  ],
+  "Bu manzil mavjud emas": [
+    "Такой страницы нет",
+    "This page does not exist"
+  ],
+  "Havolani tekshiring yoki boshqaruv sahifasiga qayting.": [
+    "Проверьте ссылку или вернитесь к обзору.",
+    "Check the link or return to your dashboard."
+  ],
+  "Boshqaruvga qaytish": [
+    "Вернуться к обзору",
+    "Back to dashboard"
+  ],
+  "Tushunishdan natijagacha": [
+    "От понимания к результату",
+    "From understanding to progress"
+  ],
+  "O‘rganing. Mashq qiling.": [
+    "Учитесь. Практикуйтесь.",
+    "Learn. Practise."
+  ],
+  "Xatodan o‘sing.": [
+    "Растите на ошибках.",
+    "Grow from mistakes."
+  ],
+  "MEMORYX darsni tushunishga, bilimni kartochkalar bilan mustahkamlashga va testdagi xatoni aniq mavzu orqali tuzatishga yordam beradi.": [
+    "MEMORYX помогает понять урок, закрепить знания карточками и разобрать ошибки в тестах.",
+    "MEMORYX helps you understand lessons, reinforce knowledge with flashcards, and learn from each test mistake."
+  ],
+  "O‘qishni davom ettirish →": [
+    "Продолжить обучение →",
+    "Continue learning →"
+  ],
+  "Demoni boshlash →": [
+    "Попробовать демо →",
+    "Try the demo →"
+  ],
+  "Hisob yaratish": [
+    "Создать аккаунт",
+    "Create account"
+  ],
+  "Demo natijalari saqlanadi, ammo hisobdan chiqsangiz unga qayta kira olmaysiz. Bu sinov versiyasida to‘lovlar yo‘q.": [
+    "Результаты демо сохраняются, но после выхода доступ к аккаунту будет потерян. Пробная версия бесплатна.",
+    "Demo results are saved, but you cannot return to this account after signing out. This trial is free."
+  ],
+  "O‘quv jarayoni namunasi": [
+    "Пример обучения",
+    "Learning preview"
+  ],
+  "Qisqa savol": [
+    "Быстрый вопрос",
+    "Quick question"
+  ],
+  "Suvning kimyoviy formulasi qaysi?": [
+    "Какова химическая формула воды?",
+    "What is the chemical formula of water?"
+  ],
+  "O‘rganish yo‘li": [
+    "Ваш путь обучения",
+    "Your learning path"
+  ],
+  "Har bir qadam keyingisiga yordam beradi": [
+    "Каждый шаг помогает следующему",
+    "Every step builds on the last"
+  ],
+  "Tushuning": [
+    "Поймите",
+    "Understand"
+  ],
+  "Qisqa dars va hayotga yaqin misollar bilan mavzuni oching.": [
+    "Изучите тему с коротким уроком и понятными примерами.",
+    "Explore a topic through a short lesson and real-life examples."
+  ],
+  "Mustahkamlang": [
+    "Закрепите",
+    "Reinforce"
+  ],
+  "Kartochkalarni aylantiring, keyin savollarga javob bering.": [
+    "Повторите карточки, затем ответьте на вопросы.",
+    "Flip the flashcards, then answer the questions."
+  ],
+  "Qayta ko‘ring": [
+    "Повторите",
+    "Review"
+  ],
+  "Xato bo‘lgan tushunchani boshqa izoh bilan o‘rganib, yana urinib ko‘ring.": [
+    "Разберите сложную тему с другим объяснением и попробуйте снова.",
+    "Learn a missed concept with a different explanation, then try again."
+  ],
+  "Shaxsiy o‘quv maydoningiz": [
+    "Ваше учебное пространство",
+    "Your learning space"
+  ],
+  "Salom,": [
+    "Привет,",
+    "Hello,"
+  ],
+  "o‘quvchi": [
+    "ученик",
+    "learner"
+  ],
+  "Demo o‘quvchi": [
+    "Демо-ученик",
+    "Demo learner"
+  ],
+  "Bugun bitta tushunchani yaxshiroq bilib oling.": [
+    "Сегодня разберитесь в чём-то новом.",
+    "Understand one concept better today."
+  ],
+  "Demo hisob: natijalar saqlanadi, ammo chiqsangiz bu hisobga qayta kira olmaysiz.": [
+    "Демо-аккаунт: результаты сохраняются, но после выхода доступ будет потерян.",
+    "Demo account: results are saved, but you cannot return after signing out."
+  ],
+  "O‘qish ko‘rsatkichlari": [
+    "Показатели обучения",
+    "Learning statistics"
+  ],
+  "Jami XP": [
+    "Всего XP",
+    "Total XP"
+  ],
+  "Virtual tanga": [
+    "Монеты",
+    "Virtual coins"
+  ],
+  "O‘tilgan mavzu": [
+    "Пройдено тем",
+    "Topics completed"
+  ],
+  "Keyingi qadam": [
+    "Следующий шаг",
+    "Next step"
+  ],
+  "Darsni ochish →": [
+    "Открыть урок →",
+    "Open lesson →"
+  ],
+  "Fanlar": [
+    "Предметы",
+    "Subjects"
+  ],
+  "O‘rganishni tanlang": [
+    "Что будем изучать?",
+    "Choose what to learn"
+  ],
+  "mavzu": [
+    "тем",
+    "topics"
+  ],
+  "Mavzularni ko‘rish →": [
+    "Посмотреть темы →",
+    "Explore topics →"
+  ],
+  "So‘nggi natijalar": [
+    "Последние результаты",
+    "Recent results"
+  ],
+  "to‘g‘ri": [
+    "верно",
+    "correct"
+  ],
+  "Hali test yakunlanmagan. Birinchi darsni ochib boshlang.": [
+    "Пока нет завершённых тестов. Начните с первого урока.",
+    "No tests completed yet. Open your first lesson to begin."
+  ],
+  "Qaytganingizdan xursandmiz": [
+    "С возвращением",
+    "Welcome back"
+  ],
+  "Hisobga kirish": [
+    "Вход в аккаунт",
+    "Sign in to your account"
+  ],
+  "O‘qishni davom ettirish uchun hisobingizga kiring.": [
+    "Войдите, чтобы продолжить обучение.",
+    "Sign in to continue learning."
+  ],
+  "Ko‘p urinish bo‘ldi. 15 daqiqadan keyin qayta urinib ko‘ring.": [
+    "Слишком много попыток. Попробуйте через 15 минут.",
+    "Too many attempts. Try again in 15 minutes."
+  ],
+  "Elektron pochta yoki parol noto‘g‘ri.": [
+    "Неверный адрес почты или пароль.",
+    "Incorrect email or password."
+  ],
+  "Elektron pochta": [
+    "Электронная почта",
+    "Email"
+  ],
+  "Parol": [
+    "Пароль",
+    "Password"
+  ],
+  "Hali hisobingiz yo‘qmi?": [
+    "Ещё нет аккаунта?",
+    "Don't have an account?"
+  ],
+  "Ro‘yxatdan o‘ting": [
+    "Зарегистрируйтесь",
+    "Sign up"
+  ],
+  "Alohida demo hisobni ochish": [
+    "Открыть демо-аккаунт",
+    "Open a demo account"
+  ],
+  "Shaxsiy ma’lumotlar": [
+    "Личные данные",
+    "Personal details"
+  ],
+  "Shaxsiy ma’lumotlaringiz": [
+    "Ваши личные данные",
+    "Your personal details"
+  ],
+  "O‘qish yo‘lingiz va haqiqiy natijalaringiz shu yerda.": [
+    "Ваш учебный путь и результаты — здесь.",
+    "Your learning journey and results, all in one place."
+  ],
+  "Ma’lumotlar": [
+    "Личные данные",
+    "Personal details"
+  ],
+  "Profil saqlandi.": [
+    "Профиль сохранён.",
+    "Profile saved."
+  ],
+  "Taxallus va sinfni tekshiring.": [
+    "Проверьте имя и класс.",
+    "Check your nickname and grade."
+  ],
+  "Taxallus": [
+    "Имя пользователя",
+    "Nickname"
+  ],
+  "Yo‘nalish": [
+    "Направление",
+    "Learning track"
+  ],
+  "Maktab fanlari": [
+    "Школьные предметы",
+    "School subjects"
+  ],
+  "Oliy ta’limga tayyorgarlik": [
+    "Подготовка к поступлению",
+    "University preparation"
+  ],
+  "Sinf (maktab o‘quvchisi uchun)": [
+    "Класс (для школьников)",
+    "Grade (for school students)"
+  ],
+  "Tanlanmagan": [
+    "Не выбран",
+    "Not selected"
+  ],
+  "-sinf": [
+    "-й класс",
+    " grade"
+  ],
+  "Saqlash": [
+    "Сохранить",
+    "Save"
+  ],
+  "Elektron pochta:": [
+    "Электронная почта:",
+    "Email:"
+  ],
+  "Demo hisob": [
+    "Демо-аккаунт",
+    "Demo account"
+  ],
+  "So‘nggi mukofotlar": [
+    "Последние награды",
+    "Recent rewards"
+  ],
+  "XP · +": [
+    "XP · +",
+    "XP · +"
+  ],
+  "virtual tanga": [
+    "монет",
+    "virtual coins"
+  ],
+  "Testni tugatganingizda mukofotlar shu yerda ko‘rinadi.": [
+    "После завершения теста здесь появятся награды.",
+    "Complete a test to see your rewards here."
+  ],
+  "Virtual tangalarning pul qiymati yo‘q.": [
+    "Виртуальные монеты не имеют денежной стоимости.",
+    "Virtual coins have no monetary value."
+  ],
+  "Mavzu bo‘yicha natijalar": [
+    "Результаты по темам",
+    "Results by topic"
+  ],
+  "urinish · eng yaxshi": [
+    "попыток · лучший",
+    "attempts · best"
+  ],
+  "Hali yakunlangan mavzu yo‘q.": [
+    "Пока нет завершённых тем.",
+    "No topics completed yet."
+  ],
+  "Fan tanlang →": [
+    "Выбрать предмет →",
+    "Choose a subject →"
+  ],
+  "MEMORYXga xush kelibsiz": [
+    "Добро пожаловать в MEMORYX",
+    "Welcome to MEMORYX"
+  ],
+  "Hisob yarating": [
+    "Создайте аккаунт",
+    "Create your account"
+  ],
+  "Ism, maktab va telefon raqami kerak emas.": [
+    "Настоящее имя, школа и номер телефона не нужны.",
+    "No real name, school, or phone number needed."
+  ],
+  "Bu elektron pochta bilan hisob bor. Kirib ko‘ring.": [
+    "Аккаунт с этой почтой уже существует. Попробуйте войти.",
+    "An account with this email already exists. Try signing in."
+  ],
+  "Ma’lumotlarni tekshiring: taxallus kamida 2 belgi, parol kamida 8 belgi va sinf 1–11 oralig‘ida bo‘lsin.": [
+    "Проверьте данные: имя — от 2 символов, пароль — от 8, класс — от 1 до 11.",
+    "Check your details: nickname at least 2 characters, password at least 8, grade between 1 and 11."
+  ],
+  "Parol (kamida 8 belgi)": [
+    "Пароль (не менее 8 символов)",
+    "Password (at least 8 characters)"
+  ],
+  "O‘quv yo‘nalishi": [
+    "Направление обучения",
+    "Learning track"
+  ],
+  "Kirish orqali o‘qish natijalarini saqlashga rozilik bildirasiz. Ma’lumotlar ochiq reytingda ko‘rsatilmaydi.": [
+    "Входя, вы соглашаетесь на сохранение результатов обучения. Данные не публикуются в рейтингах.",
+    "By signing in you agree to store learning results. Your data is not shown on public leaderboards."
+  ],
+  "Hisobingiz bormi?": [
+    "Уже есть аккаунт?",
+    "Already have an account?"
+  ],
+  "Fan": [
+    "Предмет",
+    "Subject"
+  ],
+  "daqiqa": [
+    "минут",
+    "minutes"
+  ],
+  "Eng yaxshi:": [
+    "Лучший:",
+    "Best:"
+  ],
+  "Qayta ko‘rish": [
+    "Повторение",
+    "Review"
+  ],
+  "-sinf ·": [
+    "-й класс ·",
+    " grade ·"
+  ],
+  "Dars": [
+    "Урок",
+    "Lesson"
+  ],
+  "Misol": [
+    "Пример",
+    "Example"
+  ],
+  "Sizning yo‘lingiz": [
+    "Ваш путь",
+    "Your path"
+  ],
+  "Dars → kartochka → test": [
+    "Урок → карточки → тест",
+    "Lesson → flashcards → quiz"
+  ],
+  "Avval": [
+    "Сначала закрепите знания с помощью",
+    "First, use"
+  ],
+  "ta kartochka bilan asosiy tushunchalarni mustahkamlang.": [
+    " карточек.",
+    " flashcards to reinforce the key concepts."
+  ],
+  "Kartochkalarga o‘tish →": [
+    "Перейти к карточкам →",
+    "Go to flashcards →"
+  ],
+  "Testni boshlash": [
+    "Начать тест",
+    "Start quiz"
+  ],
+  "So‘nggi natija:": [
+    "Последний результат:",
+    "Last result:"
+  ],
+  ". Yangi test alohida urinish sifatida saqlanadi.": [
+    ". Новый тест сохранится как отдельная попытка.",
+    ". A new quiz is saved as a separate attempt."
+  ],
+  "Natija": [
+    "Результат",
+    "Result"
+  ],
+  "Test yakunlandi": [
+    "Тест завершён",
+    "Quiz completed"
+  ],
+  "Natijangiz": [
+    "Ваш результат",
+    "Your result"
+  ],
+  "Har bir javob ostida nima to‘g‘ri yoki xato bo‘lganini ko‘ring.": [
+    "Узнайте, почему каждый ответ верный или неверный.",
+    "See why each answer was right or wrong."
+  ],
+  "To‘g‘ri javob ·": [
+    "Правильных ответов ·",
+    "Correct answers ·"
+  ],
+  "Oldingi urinish bilan bir xil": [
+    "Как в прошлой попытке",
+    "Same as the previous attempt"
+  ],
+  "Bu faqat urinishlar orasidagi farq; o‘quv samaradorligi bahosi emas.": [
+    "Это лишь разница между попытками, а не оценка эффективности обучения.",
+    "This is only the difference between attempts, not a measure of learning effectiveness."
+  ],
+  "E’tibor beriladigan tushunchalar": [
+    "На что обратить внимание",
+    "Concepts to revisit"
+  ],
+  "Boshqa izoh va bitta qisqa mashq bilan mustahkamlang.": [
+    "Закрепите знания с новым объяснением и коротким упражнением.",
+    "Reinforce your understanding with another explanation and a short exercise."
+  ],
+  "Tushunchani ko‘rish →": [
+    "Разобрать понятие →",
+    "Review concept →"
+  ],
+  "Barcha savollar to‘g‘ri. Mavzuni yaxshi bajardingiz!": [
+    "Все ответы верны. Отличная работа!",
+    "Every answer is correct. Well done!"
+  ],
+  "Javoblar tahlili": [
+    "Разбор ответов",
+    "Answer review"
+  ],
+  "-savol ·": [
+    "-й вопрос ·",
+    " question ·"
+  ],
+  "Sizning javobingiz:": [
+    "Ваш ответ:",
+    "Your answer:"
+  ],
+  "To‘g‘ri javob:": [
+    "Правильный ответ:",
+    "Correct answer:"
+  ],
+  "To‘g‘ri": [
+    "Верно",
+    "Correct"
+  ],
+  "Xato": [
+    "Ошибка",
+    "Incorrect"
+  ],
+  "Topilmadi": [
+    "Не найдено",
+    "Not found"
+  ],
+  "Shu tushunchani qayta ko‘rish →": [
+    "Повторить это понятие →",
+    "Revisit this concept →"
+  ],
+  "Yangi urinish →": [
+    "Новая попытка →",
+    "New attempt →"
+  ],
+  "Test": [
+    "Тест",
+    "Quiz"
+  ],
+  "3-qadam · bilimingizni tekshiring": [
+    "Шаг 3 · проверьте знания",
+    "Step 3 · test your knowledge"
+  ],
+  "testi": [
+    "— тест",
+    "quiz"
+  ],
+  "Har savolga bitta javob tanlang. Xato bo‘lsa, sababini va qaysi tushunchani qayta ko‘rishni bilib olasiz.": [
+    "Выберите один ответ на каждый вопрос. Если ошибётесь, узнаете причину и что повторить.",
+    "Choose one answer per question. If you make a mistake, find out why and what to review."
+  ],
+  "Javoblarni tekshirib, barcha savollarga qayta javob bering. Tanlovlaringiz shu brauzerda vaqtincha saqlangan.": [
+    "Проверьте ответы и ответьте на все вопросы. Ваш выбор временно сохранён в браузере.",
+    "Review your answers and answer every question. Your selections are temporarily saved in this browser."
+  ],
+  "Bu mavzuda test savollari hali yo‘q.": [
+    "Для этой темы пока нет вопросов.",
+    "No quiz questions for this topic yet."
+  ],
+  "Tekshirilmoqda…": [
+    "Проверяем…",
+    "Checking…"
+  ],
+  "Javoblarni tekshirish →": [
+    "Проверить ответы →",
+    "Check answers →"
+  ],
+  "SAVOL": [
+    "ВОПРОС",
+    "QUESTION"
+  ],
+  "Javoblar serverda tekshiriladi. Bu urinish yakunlangach qayta o‘zgartirib bo‘lmaydi.": [
+    "Ответы проверяются на сервере. После завершения изменить попытку нельзя.",
+    "Answers are checked on the server. You cannot change this attempt after submitting."
+  ],
+  "kartochka": [
+    "карточка",
+    "flashcard"
+  ],
+  "Javob": [
+    "Ответ",
+    "Answer"
+  ],
+  "Savol": [
+    "Вопрос",
+    "Question"
+  ],
+  "Javob. Savolni ko‘rish uchun bosing": [
+    "Ответ. Нажмите, чтобы увидеть вопрос",
+    "Answer. Click to see the question"
+  ],
+  "Savol. Javobni ko‘rish uchun bosing": [
+    "Вопрос. Нажмите, чтобы увидеть ответ",
+    "Question. Click to reveal the answer"
+  ],
+  "Savolga qaytish uchun bosing": [
+    "Нажмите, чтобы вернуться к вопросу",
+    "Click to return to the question"
+  ],
+  "Javobni ochish uchun bosing": [
+    "Нажмите, чтобы открыть ответ",
+    "Click to reveal the answer"
+  ],
+  "← Oldingi": [
+    "← Назад",
+    "← Previous"
+  ],
+  "Keyingisi →": [
+    "Далее →",
+    "Next →"
+  ],
+  "Kartochkalar": [
+    "Карточки",
+    "Flashcards"
+  ],
+  "2-qadam · eslab qolish": [
+    "Шаг 2 · запомните",
+    "Step 2 · remember"
+  ],
+  "Savolni o‘qing, javobni o‘zingiz aytib ko‘ring, keyin kartani oching.": [
+    "Прочитайте вопрос, попробуйте ответить, затем откройте карточку.",
+    "Read the question, try answering it, then flip the card."
+  ],
+  "Bu mavzuda kartochka hali yo‘q.": [
+    "Для этой темы пока нет карточек.",
+    "No flashcards for this topic yet."
+  ],
+  "Testga o‘tish →": [
+    "Перейти к тесту →",
+    "Go to quiz →"
+  ],
+  "Takrorlash": [
+    "Повторение",
+    "Practice"
+  ],
+  "4-qadam · boshqa yo‘l bilan tushuning": [
+    "Шаг 4 · другой взгляд",
+    "Step 4 · a different perspective"
+  ],
+  "Bu izoh aynan shu urinishdagi xato tushunchaga mos.": [
+    "Это объяснение относится к ошибке в данной попытке.",
+    "This explanation addresses the concept missed in this attempt."
+  ],
+  "Boshqa izoh": [
+    "Другое объяснение",
+    "Another explanation"
+  ],
+  "O‘xshatish": [
+    "Аналогия",
+    "Analogy"
+  ],
+  "Qisqa mashq": [
+    "Короткое упражнение",
+    "Quick practice"
+  ],
+  "Javobingiz": [
+    "Ваш ответ",
+    "Your answer"
+  ],
+  "Mashqni tekshirish": [
+    "Проверить упражнение",
+    "Check practice"
+  ],
+  "To‘g‘ri!": [
+    "Верно!",
+    "Correct!"
+  ],
+  "Hali to‘g‘ri emas. Izohni yana bir bor o‘qib, qayta urinib ko‘ring.": [
+    "Пока неверно. Прочитайте объяснение ещё раз и попробуйте снова.",
+    "Not quite. Read the explanation again and try once more."
+  ],
+  "5-qadam · qayta urinish": [
+    "Шаг 5 · попробуйте снова",
+    "Step 5 · try again"
+  ],
+  "Bilimingizni yana tekshiring": [
+    "Проверьте знания ещё раз",
+    "Test your knowledge again"
+  ],
+  "Yangi test alohida urinish sifatida yoziladi. Oldingi natijangiz saqlanadi.": [
+    "Новый тест записывается как отдельная попытка. Прошлый результат сохраняется.",
+    "A new quiz is recorded as a separate attempt. Your previous result is kept."
+  ],
+  "Yangi testni boshlash →": [
+    "Начать новый тест →",
+    "Start a new quiz →"
+  ],
+  "Natijaga qaytish": [
+    "Вернуться к результату",
+    "Back to result"
+  ],
+  "Kimyo": [
+    "Химия",
+    "Chemistry"
+  ],
+  "Biologiya": [
+    "Биология",
+    "Biology"
+  ],
+  "Moddalar va ularning o‘zgarishini o‘rganing.": [
+    "Изучайте вещества и их превращения.",
+    "Explore substances and how they change."
+  ],
+  "Tirik tabiat jarayonlarini tushuning.": [
+    "Понимайте процессы живой природы.",
+    "Understand the processes of life."
+  ],
+  "Mavzularim": [
+    "Мои темы",
+    "My lessons"
+  ],
+  "Vaqt": [
+    "Время",
+    "Duration"
+  ],
+  "daq": [
+    "мин",
+    "min"
+  ],
+  "Yakunlangan": [
+    "Завершено",
+    "Completed"
+  ],
+  "Mavzular": [
+    "Темы",
+    "Lessons"
+  ],
+  "Javobni tanlang — izoh darhol chiqadi.": [
+    "Выберите ответ — объяснение появится сразу.",
+    "Pick an answer — the explanation shows instantly."
+  ],
+  "To‘g‘ri! Suv 2 ta vodorod va 1 ta kislorod atomidan iborat.": [
+    "Верно! Вода состоит из 2 атомов водорода и 1 атома кислорода.",
+    "Correct! Water is made of 2 hydrogen atoms and 1 oxygen atom."
+  ],
+  "Bu karbonat angidrid. Yana urinib ko‘ring.": [
+    "Это углекислый газ. Попробуйте ещё раз.",
+    "That is carbon dioxide. Try again."
+  ],
+  "Bu kislorod molekulasi. Yana urinib ko‘ring.": [
+    "Это молекула кислорода. Попробуйте ещё раз.",
+    "That is an oxygen molecule. Try again."
+  ],
+  "Fanlarni tushuning, mashq qiling va xatolaringiz ustida ishlang.": [
+    "Понимайте предметы, практикуйтесь и работайте над ошибками.",
+    "Understand your subjects, practise, and learn from your mistakes."
+  ],
+  "Sinf": [
+    "Класс",
+    "Grade"
+  ],
+  "Daqiqa": [
+    "Минут",
+    "Minutes"
+  ],
+  "Kartochka": [
+    "Карточек",
+    "Cards"
+  ],
+  "Bu darsda o‘rganasiz": [
+    "В этом уроке",
+    "In this lesson"
+  ],
+  "Umumiy progress": [
+    "Общий прогресс",
+    "Overall progress"
+  ],
+  "Keyin navbatda": [
+    "Далее по плану",
+    "Up next"
+  ],
+  "Savollar": [
+    "Вопросов",
+    "Questions"
+  ],
+  "Yopish": [
+    "Закрыть",
+    "Close"
+  ],
+  "XP qayerdan keldi": [
+    "Откуда пришёл XP",
+    "Where your XP came from"
+  ],
+  "Tangalar qayerdan keldi": [
+    "Откуда пришли монеты",
+    "Where your coins came from"
+  ],
+  "O‘tilgan mavzular": [
+    "Пройденные темы",
+    "Completed topics"
+  ],
+  "Hali XP to‘planmagan. Birinchi testni yakunlang.": [
+    "XP пока нет. Завершите первый тест.",
+    "No XP yet. Finish your first test."
+  ],
+  "Hali tanga yo‘q. To‘g‘ri javoblar uchun tanga beriladi.": [
+    "Монет пока нет. Их дают за правильные ответы.",
+    "No coins yet. You earn them for correct answers."
+  ],
+  "Hali o‘tilgan mavzu yo‘q. Birinchi darsni ochib boshlang.": [
+    "Пройденных тем пока нет. Откройте первый урок.",
+    "No completed topics yet. Open your first lesson."
+  ],
+  "Urinishlar:": [
+    "Попыток:",
+    "Attempts:"
+  ],
+  "Mavzu qayta topshirilganda mukofot faqat natija yaxshilansa beriladi.": [
+    "При повторной сдаче темы награда даётся, только если результат улучшился.",
+    "When you retake a topic, you are rewarded only if your score improves."
+  ],
+  "Tirik tabiat": ["Живая природа", "Living nature"],
+  "Hujayradan fotosintezgacha bo‘lgan yo‘lni bosib o‘ting.": ["Пройдите путь от клетки до фотосинтеза.", "Explore the path from cells to photosynthesis."],
+  "Mavzularni ketma-ket o‘rganing va natijangizni kuzating.": ["Изучайте темы по порядку и следите за своим результатом.", "Study each topic in order and track your progress."],
+  "yakunlangan": ["завершено", "completed"],
+  "O‘rganishni davom ettirish": ["Продолжить обучение", "Continue learning"],
+  "Birinchi darsni boshlash": ["Начать первый урок", "Start the first lesson"],
+  "Tiriklikning asosi": ["Основа жизни", "The basis of life"],
+  "Keyingi qadam": ["Следующий шаг", "Next step"],
+  "Hali boshlanmagan": ["Ещё не начато", "Not started yet"],
+  "Eng yaxshi natija": ["Лучший результат", "Best result"],
+  "Membrana": ["Мембрана", "Membrane"],
+  "Yadro": ["Ядро", "Nucleus"],
+  "Sitoplazma": ["Цитоплазма", "Cytoplasm"]
+}
