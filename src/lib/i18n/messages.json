@@ -87,6 +87,10 @@
     "Вернуться к обзору",
     "Back to dashboard"
   ],
+  "Orqaga qaytish": [
+    "Назад",
+    "Go back"
+  ],
   "Tushunishdan natijagacha": [
     "От понимания к результату",
     "From understanding to progress"
@@ -386,6 +390,18 @@
   "Hisob yarating": [
     "Создайте аккаунт",
     "Create your account"
+  ],
+  "Hisob yaratilmoqda…": [
+    "Создаём аккаунт…",
+    "Creating account…"
+  ],
+  "Olti fan. Bitta yo‘l.": [
+    "Шесть предметов. Один путь.",
+    "Six subjects. One path."
+  ],
+  "O‘qishni o‘zingizga mos yo‘nalishdan boshlang.": [
+    "Начните обучение с подходящего вам направления.",
+    "Start learning with the subjects that suit you."
   ],
   "Ism, maktab va telefon raqami kerak emas.": [
     "Настоящее имя, школа и номер телефона не нужны.",

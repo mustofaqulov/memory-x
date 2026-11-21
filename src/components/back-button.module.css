@@ -1,0 +1,27 @@
+.back {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 11px;
+  background: var(--surface);
+  color: var(--text);
+  transition: background .16s ease, transform .16s ease;
+}
+
+.back:hover {
+  background: var(--yellow);
+  transform: translateX(-2px);
+}
+
+.back:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+@media (max-width: 620px) {
+  .back { width: 36px; height: 36px; }
+}

@@ -34,7 +34,13 @@ Migratsiyalar allaqachon `prisma/migrations` ichida. Mavjud bazaga qo‘llash uc
 | `SESSION_SECRET` | Sessiya tokenini HMAC bilan xeshlash uchun uzun sir. |
 | `DEMO_PASSWORD` | Seed qilinadigan lokal demo hisob paroli; ixtiyoriy. |
 
-Ishlab chiqarish muhitida SQLite faylini umumiy ko‘p foydalanuvchili saqlash deb qabul qilmang. PostgreSQLga o‘tish uchun Prisma datasource providerini, migratsiyalarni va joylashtirish sozlamalarini alohida tayyorlash kerak; faqat URLni almashtirish yetmaydi. Tarmoq cheklangan muhitda tayyor autentifikatsiya paketi o‘rniga scrypt parol xeshlash, bazadagi sessiyalar, HttpOnly/SameSite cookie va kirish urinishlari cheklovi yozildi. Ommaviy ishga tushirishdan oldin uni yaxshi qo‘llab-quvvatlanadigan autentifikatsiya yechimiga o‘tkazish kerak.
+## Vercel’da ishga tushirish
+
+Lokal ish jarayoni SQLite bilan qoladi. Vercel uchun doimiy PostgreSQL bazasini (masalan, Vercel Marketplace orqali Neon yoki Prisma Postgres) loyihaga ulang. Vercel Project Settings → Environment Variables ichida Production uchun `DATABASE_URL` (PostgreSQL ulanish manzili) va kamida 32 belgili tasodifiy `SESSION_SECRET` bo‘lishi kerak. Provayder pooled ulanish manzilini bersa, uni `DATABASE_URL_POOLED` sifatida qo‘shing. Sirlarni Git’ga yoki chatga joylamang.
+
+`vercel.json` Next.js presetini va `npm run build:vercel` buyrug‘ini belgilaydi. Bu buyruq PostgreSQL Prisma client’ini yaratadi, `prisma/postgres/migrations` migratsiyalarini qo‘llaydi, dars kontentini seed qiladi va Next.js build’ni bajaradi. Baza yoki sessiya siri yo‘q bo‘lsa, yangi deploy build’i aniq xabar bilan to‘xtaydi. Vercel Root Directory loyiha ildizi (`.`), Output Directory esa Next.js standart qiymatida bo‘lsin. Muhit o‘zgaruvchilarini qo‘shgach, qayta deploy qiling. Lokal SQLite bazasidagi hisoblar PostgreSQLga avtomatik ko‘chirilmaydi.
+
+Tarmoq cheklangan muhitda tayyor autentifikatsiya paketi o‘rniga scrypt parol xeshlash, bazadagi sessiyalar, HttpOnly/SameSite cookie va kirish urinishlari cheklovi yozildi. Ommaviy ishga tushirishdan oldin uni yaxshi qo‘llab-quvvatlanadigan autentifikatsiya yechimiga o‘tkazish kerak.
 
 ## O‘quv qoidalari
 
@@ -86,11 +92,11 @@ npm.cmd run build
 
 ## Cheklovlar va keyingi bosqichlar
 
-Bu lokal MVP. SQLite, oddiy matnli mashq javoblari, kichik qo‘lda yozilgan kontent va maxsus sessiya kodi bilan ishlaydi. Demo hisobni tiklash, parolni unutganda tiklash, hisobni o‘chirish va tahrirchi paneli hali yo‘q. Brauzer sinovi Chrome bilan bajarildi. O‘zbekiston bo‘yicha voyaga yetmaganlar ma’lumoti, ta’lim ma’lumoti va keyingi pullik mahsulot talablarini ishlab chiqarishga chiqarishdan oldin huquqiy mutaxassis tekshirishi kerak; bu loyiha muvofiqlik da’vo qilmaydi.
+Bu MVPning lokal versiyasi SQLite bilan ishlaydi. Oddiy matnli mashq javoblari, kichik qo‘lda yozilgan kontent va maxsus sessiya kodi qo‘llanadi. Demo hisobni tiklash, parolni unutganda tiklash, hisobni o‘chirish va tahrirchi paneli hali yo‘q. Brauzer sinovi Chrome bilan bajarildi. O‘zbekiston bo‘yicha voyaga yetmaganlar ma’lumoti, ta’lim ma’lumoti va keyingi pullik mahsulot talablarini ishlab chiqarishga chiqarishdan oldin huquqiy mutaxassis tekshirishi kerak; bu loyiha muvofiqlik da’vo qilmaydi.
 
 Keyingi uchta ustuvor ish:
 
-1. PostgreSQL va standart autentifikatsiya tizimiga o‘tish, hisobni tiklash/o‘chirish va demo hisobni ro‘yxatdagi hisobga aylantirish.
+1. Standart autentifikatsiya tizimiga o‘tish, hisobni tiklash/o‘chirish va demo hisobni ro‘yxatdagi hisobga aylantirish.
 2. Kontentni mutaxassis ko‘rigidan o‘tkazish, yangi fanlar va tahrirchi ish oqimini qo‘shish.
 3. Alohida imtihon rejimini vaqt, baholash va tahlil qoidalari bilan qurish; undan keyin maktab PRO va to‘lovlarni alohida loyihalash.
 

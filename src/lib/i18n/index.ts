@@ -1,12 +1,14 @@
 import messages from './messages.json';
 import curriculum from './curriculum.json';
+import biology from './biology.json';
+import physics from './physics.json';
 
 export type Locale = 'uz' | 'ru' | 'en';
 export type Theme = 'dark' | 'light';
 export function isLocale(value: unknown): value is Locale {
   return value === 'uz' || value === 'ru' || value === 'en';
 }
-const dictionary: Record<string, string[]> = { ...messages, ...curriculum };
+const dictionary: Record<string, string[]> = { ...messages, ...curriculum, ...biology, ...physics };
 
 export function translate(text: string, locale: Locale): string {
   if (locale === 'uz') return text;

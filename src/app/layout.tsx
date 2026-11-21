@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Suspense } from 'react';
 import Link from 'next/link';
 import { cookies } from 'next/headers';
 import { LogOut, ShieldCheck } from 'lucide-react';
@@ -6,6 +7,7 @@ import { getUser } from '@/lib/auth';
 import { isLocale, translate } from '@/lib/i18n';
 import { Preferences, PreferencesProvider, T } from '@/components/preferences';
 import { SideNav } from '@/components/side-nav';
+import { BackButton } from '@/components/back-button';
 import { signOut } from './actions';
 import './globals.css';
 import './motion.css';
@@ -27,7 +29,7 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
         <SideNav signedIn={Boolean(user)} />
         <div className="workspace">
           <header className="site-header">
-            <Link className="brand" href={user ? '/dashboard' : '/'} aria-label={translate('MEMORYX bosh sahifa', locale)}><span className="brand-kicker"><T text="Tushunishdan natijagacha" /></span><span>memory<span className="brand-accent">x</span></span></Link>
+            <div className="header-start"><Suspense fallback={null}><BackButton /></Suspense><Link className="brand" href={user ? '/dashboard' : '/'} aria-label={translate('MEMORYX bosh sahifa', locale)}><span className="brand-kicker"><T text="Tushunishdan natijagacha" /></span><span>memory<span className="brand-accent">x</span></span></Link></div>
             <div className="header-controls">
               {!user && <nav className="top-nav" aria-label={translate('Asosiy menyu', locale)}><Link href="/kirish"><T text="Kirish" /></Link><Link className="nav-pill" href="/royxatdan-otish"><T text="Boshlash" /></Link></nav>}
               <Preferences />

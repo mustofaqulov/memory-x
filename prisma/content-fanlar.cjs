@@ -1,5 +1,6 @@
 // Fizika, matematika, ingliz tili va rus tili bo‘yicha boshlang‘ich kontent. Tarjimalar src/lib/i18n/curriculum.json da.
 const q = (id, concept, prompt, choices, answer, correctNote, wrongNote) => ({ id, concept, prompt, choices, answer, correctNote, wrongNote });
+const physicsTopics = require('./content-fizika.cjs');
 const subjects = [
   { id: 'fizika', title: 'Fizika', description: 'Harakat, kuch va energiya qonuniyatlarini kashf eting.', icon: '⚛' },
   { id: 'matematika', title: 'Matematika', description: 'Sonlar va tenglamalar bilan mantiqiy fikrlashni o‘rganing.', icon: '∑' },
@@ -59,6 +60,7 @@ const topics = [
       q('el5', 'elektr-birliklar', 'Tok kuchi qaysi harf bilan belgilanadi?', ['U', 'R', 'I', 'A'], 2, 'Tok kuchi I harfi bilan belgilanadi.', 'U — kuchlanish, R — qarshilik, A esa birlik (amper).')
     ]
   },
+  ...physicsTopics,
   {
     id: 'oddiy-kasrlar', subject: 'matematika', title: 'Oddiy kasrlar', summary: 'Kasrlarni qisqartirish va qo‘shishni tushuning.', grade: 6, minutes: 12,
     lesson: {

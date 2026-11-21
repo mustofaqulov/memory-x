@@ -1,0 +1,271 @@
+.shell {
+  width: 100%;
+}
+
+.progressLabel {
+  margin: 12px 0 18px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.card {
+  --front: var(--lilac);
+  --deep: #302951;
+  --soft-ink: #51496b;
+  --art-tile: #eee4ff;
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 355px;
+  padding: 24px 30px 22px;
+  overflow: hidden;
+  border: 1.5px solid #292725;
+  border-radius: 25px;
+  background: var(--front);
+  box-shadow: 0 8px 0 #292725;
+  color: #292725;
+  text-align: left;
+  transition: background .28s ease, color .28s ease, transform .18s ease, box-shadow .18s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 0 #292725;
+}
+
+.card:active {
+  transform: translateY(4px);
+  box-shadow: 0 4px 0 #292725;
+}
+
+.card:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 5px;
+}
+
+.card[data-flipped='true'] {
+  --soft-ink: #e3dcf2;
+  --art-tile: #ffffff24;
+  background: var(--deep);
+  color: #fff;
+}
+
+.kimyo { --front: var(--yellow); --deep: #553725; --soft-ink: #665238; --art-tile: #fff1bb; }
+.biologiya { --front: var(--mint); --deep: #1d4b42; --soft-ink: #48685c; --art-tile: #e2f8e9; }
+.fizika { --front: var(--lilac); --deep: #302951; --soft-ink: #51496b; --art-tile: #eee4ff; }
+.matematika { --front: var(--sky); --deep: #1d4c5d; --soft-ink: #43616b; --art-tile: #e2f7ff; }
+.ingliz-tili { --front: var(--peach); --deep: #57392f; --soft-ink: #795b4f; --art-tile: #fff0e2; }
+.rus-tili { --front: var(--rose); --deep: #512f4b; --soft-ink: #765469; --art-tile: #ffe8f3; }
+
+.cardTop {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 18px;
+  min-height: 27px;
+}
+
+.topic {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  max-width: min(75%, 530px);
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.topic svg { flex: none; }
+
+.cardCounter {
+  flex: none;
+  color: var(--soft-ink);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  white-space: nowrap;
+}
+
+.cardMain {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(250px, .7fr);
+  align-items: center;
+  gap: 12px;
+}
+
+.cardCopy {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 0;
+  min-height: 275px;
+  padding: 20px 0 10px;
+}
+
+.sideLabel {
+  margin-bottom: 17px;
+  color: var(--soft-ink);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+.cardCopy strong {
+  display: block;
+  max-width: 600px;
+  font-size: clamp(23px, 2.8vw, 34px);
+  font-weight: 700;
+  letter-spacing: -.045em;
+  line-height: 1.18;
+  overflow-wrap: anywhere;
+}
+
+.flipHint {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 21px;
+  color: var(--soft-ink);
+  font-size: 13px;
+  line-height: 1.3;
+}
+
+.flipHint > span {
+  display: inline-grid;
+  place-items: center;
+  width: 23px;
+  height: 23px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-size: 15px;
+  line-height: 1;
+  transition: transform .25s ease;
+}
+
+.card:hover .flipHint > span { transform: rotate(45deg); }
+
+.artwork {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 265px;
+  isolation: isolate;
+}
+
+.orbitOne,
+.orbitTwo {
+  position: absolute;
+  width: min(100%, 285px);
+  height: 135px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  opacity: .25;
+  transform: rotate(25deg);
+}
+
+.orbitTwo { transform: rotate(-25deg); }
+
+.artworkCore {
+  display: grid;
+  place-items: center;
+  width: 148px;
+  height: 148px;
+  border: 1px solid currentColor;
+  border-radius: 34px;
+  background: var(--art-tile);
+  box-shadow: 9px 11px 0 #24231f25;
+  transform: rotate(-11deg);
+  transition: transform .35s ease, background .28s ease;
+}
+
+.artworkCore svg {
+  transform: rotate(11deg);
+}
+
+.card[data-flipped='true'] .artworkCore {
+  transform: rotate(8deg) scale(1.04);
+  box-shadow: 9px 11px 0 #00000030;
+}
+
+.card[data-flipped='true'] .artworkCore svg { transform: rotate(-8deg); }
+
+.object {
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 55px;
+  height: 55px;
+  border: 1px solid currentColor;
+  border-radius: 17px;
+  background: var(--art-tile);
+  box-shadow: 4px 5px 0 #24231f20;
+}
+
+.objectFirst { top: 18px; right: 3%; transform: rotate(11deg); }
+.objectSecond { bottom: 13px; left: 3%; transform: rotate(-13deg); }
+
+.artworkDot {
+  position: absolute;
+  right: 15%;
+  bottom: 24px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: .5;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 11px;
+  margin-top: 25px;
+}
+
+.actions button { min-height: 46px; }
+
+@media (max-width: 760px) {
+  .card { padding: 21px; }
+  .cardMain { grid-template-columns: minmax(0, 1fr) 215px; gap: 0; }
+  .artwork { height: 220px; }
+  .artworkCore { width: 122px; height: 122px; border-radius: 28px; }
+  .artworkCore svg { width: 76px; height: 76px; }
+  .orbitOne, .orbitTwo { width: 210px; height: 105px; }
+  .object { width: 46px; height: 46px; }
+  .object svg { width: 24px; height: 24px; }
+}
+
+@media (max-width: 590px) {
+  .card { min-height: 0; padding: 18px 19px 13px; border-radius: 20px; }
+  .topic { max-width: 72%; font-size: 12px; }
+  .cardCounter { font-size: 10px; }
+  .cardMain { grid-template-columns: 1fr; }
+  .cardCopy { min-height: 0; padding: 30px 0 6px; }
+  .sideLabel { margin-bottom: 10px; font-size: 11px; }
+  .cardCopy strong { font-size: clamp(24px, 7vw, 31px); }
+  .flipHint { margin-top: 17px; font-size: 12px; }
+  .artwork { height: 170px; margin-top: -1px; }
+  .artworkCore { width: 105px; height: 105px; border-radius: 24px; }
+  .artworkCore svg { width: 64px; height: 64px; }
+  .orbitOne, .orbitTwo { width: 205px; height: 95px; }
+  .object { width: 40px; height: 40px; border-radius: 12px; }
+  .object svg { width: 22px; height: 22px; }
+  .objectFirst { top: 9px; right: 14%; }
+  .objectSecond { bottom: 8px; left: 14%; }
+  .artworkDot { right: 20%; bottom: 14px; }
+  .actions button { flex: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card, .artworkCore, .flipHint > span { transition: none; }
+}

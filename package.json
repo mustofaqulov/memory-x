@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "postinstall": "prisma generate",
+    "postinstall": "node scripts/generate-client.cjs",
     "dev": "next dev",
     "build": "next build",
+    "build:vercel": "node scripts/vercel-build.cjs",
     "start": "next start",
     "lint": "node node_modules/eslint/bin/eslint.js .",
     "typecheck": "tsc --noEmit",

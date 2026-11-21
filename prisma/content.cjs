@@ -1,5 +1,6 @@
 // Authored starter curriculum. The answer index is used only during seeding.
 const q = (id, concept, prompt, choices, answer, correctNote, wrongNote) => ({ id, concept, prompt, choices, answer, correctNote, wrongNote });
+const biologyTopics = require('./content-biologiya.cjs');
 const topics = [
   {
     id: 'atom-tuzilishi', subject: 'kimyo', title: 'Atom tuzilishi', summary: 'Proton, neytron va elektron qanday joylashishini tushuning.', grade: 7, minutes: 12,
@@ -79,6 +80,7 @@ const topics = [
       q('h5','osimlik-hujayra','O‘simlik hujayra devori membranaga nisbatan qayerda joylashadi?',['Membrana tashqarisida','Yadro ichida','Xloroplast ichida','Membrana o‘rnida'],0,'Hujayra devori membrananing tashqarisida joylashadi.','Devor membranani almashtirmaydi; ular turli tuzilmalardir.')
     ]
   },
+  ...biologyTopics,
   {
     id: 'fotosintez', subject: 'biologiya', title: 'Fotosintez', summary: 'O‘simliklar yorug‘likdan qanday foydalanishini o‘rganing.', grade: 8, minutes: 14,
     lesson: {

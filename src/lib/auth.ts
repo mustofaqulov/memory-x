@@ -9,6 +9,7 @@ function secret() {
   if (!process.env.SESSION_SECRET || process.env.SESSION_SECRET.length < 32) throw new Error('SESSION_SECRET is missing or too short');
   return process.env.SESSION_SECRET;
 }
+export function assertSessionConfigured() { secret(); }
 function tokenHash(token: string) { return createHmac('sha256', secret()).update(token).digest('hex'); }
 export function hashPassword(password: string) {
   const salt = randomBytes(16).toString('hex');
@@ -16,7 +17,7 @@ export function hashPassword(password: string) {
 }
 export function verifyPassword(password: string, saved: string) {
   const [salt, hash] = saved.split(':');
-  if (!salt || !hash || hash.length !== 128) return false;
+  if (!salt || !hash || !/^[0-9a-f]{128}$/i.test(hash)) return false;
   const expected = Buffer.from(hash, 'hex');
   const actual = scryptSync(password, salt, expected.length);
   return timingSafeEqual(expected, actual);

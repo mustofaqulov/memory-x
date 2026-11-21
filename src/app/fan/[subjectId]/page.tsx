@@ -1,16 +1,16 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { ArrowRight, Atom, BookA, BookType, Divide, Dna, Equal, FlaskConical, Gauge, Languages, Leaf, Zap, type LucideIcon } from 'lucide-react';
+import { ArrowRight, ArrowRightLeft, Atom, BookA, BookType, CircleGauge, Divide, Dna, Equal, FlaskConical, Gauge, Grip, HeartPulse, Languages, Layers3, Leaf, Microscope, Orbit, PawPrint, Sprout, Weight, Zap, type LucideIcon } from 'lucide-react';
 import { T } from '@/components/preferences';
 import { requireUser } from '@/lib/auth';
 import { db } from '@/lib/db';
 import { SubjectIcon } from '@/lib/subjects';
 import './showcase.css';
 
-const topicIcons: Record<string, [LucideIcon, LucideIcon]> = {
+const topicIcons: Record<string, LucideIcon[]> = {
   kimyo: [Atom, FlaskConical],
-  biologiya: [Dna, Leaf],
-  fizika: [Gauge, Zap],
+  biologiya: [Dna, Layers3, HeartPulse, Microscope, Sprout, PawPrint, Leaf],
+  fizika: [Gauge, Zap, Weight, CircleGauge, ArrowRightLeft, Grip, Orbit],
   matematika: [Divide, Equal],
   'ingliz-tili': [BookA, BookType],
   'rus-tili': [BookType, Languages],

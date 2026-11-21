@@ -4,7 +4,7 @@ import { randomBytes } from 'node:crypto';
 import { Prisma } from '@memoryx/prisma-client';
 import { redirect } from 'next/navigation';
 import { z } from 'zod';
-import { createSession, clearSession, getUser, hashPassword, requireUser, verifyPassword } from '@/lib/auth';
+import { assertSessionConfigured, createSession, clearSession, getUser, hashPassword, requireUser, verifyPassword } from '@/lib/auth';
 import { db } from '@/lib/db';
 import { finalizeAttempt } from '@/lib/quiz';
 import { translate } from '@/lib/i18n';
@@ -18,6 +18,7 @@ export async function register(form: FormData) {
   const parsed = z.object({ email: emailSchema, password: passwordSchema, nickname: z.string().trim().min(2).max(30), track: z.enum(['school', 'entrance']) }).safeParse({ email: value(form, 'email'), password: value(form, 'password'), nickname: value(form, 'nickname'), track: value(form, 'track') });
   const grade = value(form, 'grade') ? Number(value(form, 'grade')) : null;
   if (!parsed.success || (parsed.data?.track === 'school' && (!Number.isInteger(grade) || grade! < 1 || grade! > 11))) redirect('/royxatdan-otish?error=validation');
+  assertSessionConfigured();
   let user;
   try {
     user = await db.user.create({ data: { email: parsed.data.email, passwordHash: hashPassword(parsed.data.password), profile: { create: { nickname: parsed.data.nickname, track: parsed.data.track, grade: parsed.data.track === 'school' ? grade : null } } } });
@@ -51,6 +52,7 @@ export async function signIn(form: FormData) {
 export async function signOut() { await clearSession(); redirect('/'); }
 
 export async function startDemo() {
+  assertSessionConfigured();
   const id = randomBytes(8).toString('hex');
   const user = await db.user.create({ data: { email: `demo-${id}@memoryx.local`, isDemo: true, passwordHash: hashPassword(randomBytes(32).toString('hex')), profile: { create: { nickname: 'Demo o‘quvchi', track: 'school', grade: 8 } } } });
   await createSession(user.id);

@@ -1,0 +1,12 @@
+{
+  "Massa va zichlik": ["Масса и плотность", "Mass and density"],
+  "Massa, hajm va zichlik orasidagi bog‘lanishni hisoblang.": ["Вычисляйте связь между массой, объёмом и плотностью.", "Calculate the relationship between mass, volume, and density."],
+  "Bosim": ["Давление", "Pressure"],
+  "Kuch va sirt yuzasi bosimga qanday ta’sir qilishini tushuning.": ["Узнайте, как сила и площадь поверхности влияют на давление.", "Understand how force and surface area affect pressure."],
+  "Nyuton qonunlari": ["Законы Ньютона", "Newton's laws"],
+  "Kuch va harakat orasidagi uchta asosiy qonunni ajrating.": ["Разберите три основных закона, связывающих силу и движение.", "Explore the three laws that connect force and motion."],
+  "Ishqalanish kuchi": ["Сила трения", "Friction force"],
+  "Ishqalanish harakatga qanday qarshilik qilishini biling.": ["Узнайте, как трение противодействует движению.", "Learn how friction opposes motion."],
+  "Moddaning molekulyar holati": ["Молекулярное строение состояний вещества", "Molecular states of matter"],
+  "Qattiq, suyuq va gaz holatlarda zarrachalar qanday joylashishini biling.": ["Узнайте, как расположены частицы в твёрдом, жидком и газообразном состояниях.", "Learn how particles are arranged in solids, liquids, and gases."]
+}

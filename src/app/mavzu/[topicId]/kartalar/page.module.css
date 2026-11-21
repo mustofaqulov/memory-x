@@ -1,0 +1,166 @@
+.studyColumn {
+  width: min(100%, 1080px);
+}
+
+.hero {
+  --hero-bg: var(--lilac);
+  --hero-deep: #302951;
+  --hero-light: #efe4ff;
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 293px;
+  margin: 4px 0 27px;
+  padding: 29px 36px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: radial-gradient(circle at 91% 13%, var(--hero-light), transparent 42%), var(--hero-bg);
+  color: #292725;
+}
+
+.kimyo { --hero-bg: var(--yellow); --hero-deep: #553725; --hero-light: #fff2bd; }
+.biologiya { --hero-bg: var(--mint); --hero-deep: #1d4b42; --hero-light: #edfff1; }
+.fizika { --hero-bg: var(--lilac); --hero-deep: #302951; --hero-light: #eef0ff; }
+.matematika { --hero-bg: var(--sky); --hero-deep: #1d4c5d; --hero-light: #e8f9ff; }
+.ingliz-tili { --hero-bg: var(--peach); --hero-deep: #57392f; --hero-light: #fff4e8; }
+.rus-tili { --hero-bg: var(--rose); --hero-deep: #512f4b; --hero-light: #fff0f8; }
+
+.heroCopy {
+  position: relative;
+  z-index: 2;
+  width: min(100%, 720px);
+}
+
+.kicker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 11px;
+  color: var(--hero-deep);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .11em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.kicker span { opacity: .55; }
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(40px, 4vw, 58px);
+  line-height: 1.05;
+  letter-spacing: -.06em;
+}
+
+.lead {
+  max-width: 590px;
+  margin: 12px 0 22px;
+  font-size: clamp(14px, 1.4vw, 17px);
+  line-height: 1.4;
+}
+
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.steps > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 34px;
+  padding: 7px 10px;
+  border: 1px solid #2927255c;
+  border-radius: 9px;
+  background: #ffffff6b;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.steps .currentStep {
+  border-color: var(--hero-deep);
+  background: var(--hero-deep);
+  color: #fff;
+}
+
+.heroArt {
+  position: absolute;
+  top: 0;
+  right: 12px;
+  width: 300px;
+  height: 100%;
+  color: var(--hero-deep);
+}
+
+.heroOrbit {
+  position: absolute;
+  top: 59px;
+  right: 16px;
+  width: 252px;
+  height: 168px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  opacity: .26;
+  transform: rotate(-24deg);
+}
+
+.heroCardBack,
+.heroToken {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: 142px;
+  height: 142px;
+  border: 1px solid currentColor;
+  border-radius: 29px;
+}
+
+.heroCardBack {
+  top: 69px;
+  right: 78px;
+  background: #ffffff5c;
+  transform: rotate(15deg);
+}
+
+.heroToken {
+  top: 66px;
+  right: 82px;
+  background: var(--hero-deep);
+  color: #fff;
+  box-shadow: 8px 9px 0 #24231f27;
+  transform: rotate(-11deg);
+}
+
+.heroToken svg { transform: rotate(11deg); }
+
+.heroSpark {
+  position: absolute;
+  right: 32px;
+  bottom: 34px;
+  font-size: 35px;
+}
+
+@media (max-width: 850px) {
+  .heroCopy { width: min(100%, 600px); }
+  .heroArt { right: -55px; opacity: .5; }
+}
+
+@media (max-width: 590px) {
+  .hero {
+    min-height: 250px;
+    padding: 22px;
+    border-radius: 20px;
+  }
+
+  .hero h1 { font-size: clamp(35px, 10vw, 44px); }
+  .kicker { max-width: 75%; font-size: 10px; }
+  .lead { max-width: 260px; margin: 12px 0 19px; font-size: 13px; }
+  .steps { max-width: 100%; gap: 5px; }
+  .steps > span { gap: 5px; min-height: 32px; padding: 6px 7px; font-size: 10px; }
+  .steps svg { width: 13px; height: 13px; }
+  .heroArt { top: 3px; right: -143px; opacity: .24; transform: scale(.72); transform-origin: top left; }
+}
